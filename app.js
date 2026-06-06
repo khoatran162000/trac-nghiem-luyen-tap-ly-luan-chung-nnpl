@@ -38,7 +38,7 @@
     bindEvents();
 
     try {
-      const res = await fetch("quiz.json", { cache: "no-store" });
+      const res = await fetch("quiz-luyen-tap-llc.json", { cache: "no-store" });
       if (!res.ok) throw new Error("HTTP " + res.status);
       const data = await res.json();
       state.questions = data.filter(q => q && q.CauHoi && q.DapAnDung);
