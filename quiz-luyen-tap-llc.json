@@ -1,0 +1,1802 @@
+[
+  {
+    "ID": 1,
+    "CauHoi": "Tìm hiểu bản chất nhà nước tức là tìm hiểu tổng hợp tất cả những mặt, những mối liên hệ tất nhiên tương đối ổn định ở bên trong của nhà nước.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Theo tài liệu, tìm hiểu bản chất nhà nước tức là tìm hiểu \"tổng hợp tất cả những mặt, những mối liên hệ tất nhiên tương đối ổn định ở bên trong của nhà nước, quy định sự vận động và phát triển của nó\"."
+  },
+  {
+    "ID": 2,
+    "CauHoi": "Xét về bản chất, nhà nước chỉ mang tính giai cấp mà không mang tính xã hội.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Từ quá trình hình thành nhà nước, có thể khẳng định rằng xét về bản chất, nhà nước là một hiện tượng xã hội luôn thể hiện cả tính xã hội và tính giai cấp."
+  },
+  {
+    "ID": 3,
+    "CauHoi": "Bản chất của nhà nước luôn cố định và không thay đổi dù cơ sở kinh tế - xã hội có thay đổi.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Bản chất của nhà nước là do cơ sở kinh tế - xã hội của nó quyết định nên khi cơ sở kinh tế - xã hội thay đổi thì bản chất của nhà nước cũng thay đổi theo."
+  },
+  {
+    "ID": 4,
+    "CauHoi": "Trước khi nhà nước xuất hiện, các công việc chung của xã hội được giải quyết bởi thị tộc và bộ lạc.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tài liệu ghi rõ: \"Trước khi có nhà nước, các công việc chung của xã hội do thị tộc, bộ lạc giải quyết. Khi nhà nước xuất hiện thì trách nhiệm đó thuộc về nhà nước\"."
+  },
+  {
+    "ID": 5,
+    "CauHoi": "Tính xã hội của nhà nước thể hiện rộng rãi và sâu sắc nhất ở các nhà nước chủ nô và phong kiến.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Ở các nhà nước chủ nô và phong kiến, do cơ sở kinh tế - xã hội và trình độ phát triển của xã hội lúc đó nên tính xã hội của các nhà nước này thể hiện khá mờ nhạt và hạn chế. Nhà nước XHCN mới là kiểu nhà nước thể hiện tính xã hội rộng rãi, rõ rệt và sâu sắc nhất."
+  },
+  {
+    "ID": 6,
+    "CauHoi": "Sự thống trị xã hội của lực lượng cầm quyền thể hiện trên 3 lĩnh vực: kinh tế, chính trị và tư tưởng, trong đó lĩnh vực kinh tế giữ vai trò quyết định.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Sự thống trị xã hội thể hiện chủ yếu ở 3 lĩnh vực: kinh tế, chính trị và tư tưởng, trong đó lĩnh vực tiền đề và giữ vai trò quyết định là kinh tế."
+  },
+  {
+    "ID": 7,
+    "CauHoi": "Quyền lực kinh tế đã đủ khả năng để tự duy trì sự thống trị giai cấp mà không cần đến bộ máy cưỡng chế nhà nước.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Quyền lực kinh tế không đủ khả năng duy trì sự thống trị vì lực lượng bị thống trị luôn tìm cách chống lại. Để bảo vệ lợi ích kinh tế của mình, lực lượng thống trị phải dùng bộ máy nhà nước để trấn áp, biến nhà nước thành bộ máy cưỡng chế đặc biệt."
+  },
+  {
+    "ID": 8,
+    "CauHoi": "Cơ sở kinh tế của Nhà nước Việt Nam hiện nay là nền kinh tế thị trường đa thành phần theo định hướng XHCN, trong đó kinh tế nhà nước giữ vai trò chủ đạo.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Cơ sở kinh tế của Nhà nước Việt Nam hiện nay là quan hệ sản xuất được xây dựng trên cơ sở nền kinh tế thị trường đa thành phần với nhiều hình thức sở hữu theo định hướng XHCN, trong đó kinh tế nhà nước giữ vai trò chủ đạo."
+  },
+  {
+    "ID": 9,
+    "CauHoi": "Nền tảng xã hội của Nhà nước Việt Nam hiện nay chỉ bao gồm giai cấp công nhân và giai cấp nông dân.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Cơ sở xã hội của Nhà nước Việt Nam hiện nay là toàn thể nhân dân Việt Nam mà nền tảng là liên minh giữa giai cấp công nhân với giai cấp nông dân và đội ngũ trí thức, dưới sự lãnh đạo của Đảng Cộng sản Việt Nam."
+  },
+  {
+    "ID": 10,
+    "CauHoi": "Nhà nước pháp quyền XHCN là nhà nước luôn bị ràng buộc bởi pháp luật của chính mình, tuyệt đối tôn trọng và thực hiện pháp luật.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Nhà nước ta đang được xây dựng theo hướng trở thành nhà nước pháp quyền XHCN, tức là nhà nước khẳng định và bảo đảm sự thống trị của pháp luật, một nhà nước luôn bị ràng buộc bởi pháp luật của chính mình, tuyệt đối tôn trọng và thực hiện pháp luật trong cả tổ chức lẫn hoạt động."
+  },
+  {
+    "ID": 11,
+    "CauHoi": "Nhà nước Việt Nam hiện nay chỉ làm nhiệm vụ quản lý kinh tế - xã hội mà không còn là một cơ quan trấn áp hay bộ máy cưỡng chế.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Để bảo vệ chính quyền của nhân dân, bảo vệ chế độ, thiết lập và giữ gìn trật tự xã hội trước sự chống đối của các lực lượng thù địch, Nhà nước ta vừa là bộ máy điều hành quản lý, vừa phải là một bộ máy cưỡng chế, một cơ quan trấn áp."
+  },
+  {
+    "ID": 12,
+    "CauHoi": "Trong hệ thống chính trị, nhà nước là công cụ chủ yếu nhất để xây dựng nền dân chủ XHCN.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tất cả các tổ chức trong hệ thống chính trị đều là công cụ để xây dựng nền dân chủ, song nhà nước là công cụ chủ yếu nhất vì nó có nhiều ưu thế mà các tổ chức khác không có (như pháp luật, sức mạnh cưỡng chế và vật chất)."
+  },
+  {
+    "ID": 13,
+    "CauHoi": "Tính chất giai cấp công nhân của Nhà nước Việt Nam thể hiện ở việc quán triệt Chủ nghĩa Mác – Lênin và Tư tưởng Hồ Chí Minh trong cơ chế, chính sách và pháp luật.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tính chất giai cấp công nhân của Nhà nước ta thể hiện ở việc: Từ pháp luật đến cơ chế, chính sách, tổ chức và hoạt động của Nhà nước ta đều quán triệt tư tưởng, quan điểm của giai cấp công nhân mà cụ thể là quán triệt Chủ nghĩa Mác – Lênin và Tư tưởng Hồ Chí Minh."
+  },
+  {
+    "ID": 14,
+    "CauHoi": "Nhiệm vụ chiến lược, lâu dài của nhà nước có phạm vi hẹp hơn so với chức năng của nhà nước.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Theo tài liệu, chức năng nhà nước có phạm vi hẹp hơn so với nhiệm vụ chiến lược của nhà nước, và nhiệm vụ chiến lược có vai trò quyết định đối với việc xác định và thực hiện chức năng nhà nước."
+  },
+  {
+    "ID": 15,
+    "CauHoi": "Chức năng của nhà nước là những phương diện (mặt) hoạt động chủ yếu của nhà nước nhằm thực hiện những nhiệm vụ đặt ra trước nó.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Trong khoa học pháp lý, có quan niệm định nghĩa: Chức năng của nhà nước là những phương diện (mặt) hoạt động chủ yếu của nhà nước nhằm để thực hiện những nhiệm vụ đặt ra trước nó."
+  },
+  {
+    "ID": 16,
+    "CauHoi": "Phương pháp duy nhất để thực hiện chức năng của nhà nước là sử dụng biện pháp cưỡng chế.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Về phương pháp thực hiện chức năng thì có 2 phương pháp chủ yếu là thuyết phục và cưỡng chế, ngoài ra còn có một số phương pháp khác như tổ chức, kinh tế, hành chính...."
+  },
+  {
+    "ID": 17,
+    "CauHoi": "Xây dựng pháp luật, tổ chức thực hiện pháp luật và bảo vệ pháp luật là các phương thức cơ bản mang tính pháp lý để thực hiện chức năng nhà nước.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tài liệu liệt kê rõ 3 phương thức cơ bản mang tính pháp lý để thực hiện chức năng nhà nước gồm: Xây dựng pháp luật, Tổ chức thực hiện pháp luật, và Bảo vệ pháp luật."
+  },
+  {
+    "ID": 18,
+    "CauHoi": "Tiến hành chiến tranh xâm lược là chức năng tồn tại vĩnh viễn ở mọi kiểu nhà nước trong lịch sử, bao gồm cả nhà nước XHCN.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Chức năng tiến hành chiến tranh xâm lược là đặc trưng của các nhà nước chủ nô, phong kiến, tư sản giai đoạn đế quốc. Đối với nhà nước XHCN sau này sẽ không còn chức năng này."
+  },
+  {
+    "ID": 19,
+    "CauHoi": "Qua các kiểu nhà nước, chức năng của nhà nước thay đổi theo hướng tăng thêm về số lượng, mở rộng về nội dung và đa dạng về phương thức thực hiện.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Chức năng của nhà nước có sự thay đổi, phát triển qua các kiểu nhà nước, thể hiện ở sự tăng thêm về số lượng, sự mở rộng về nội dung và sự đa dạng hơn về phương thức thực hiện."
+  },
+  {
+    "ID": 20,
+    "CauHoi": "Chức năng xã hội là chức năng quan trọng nhất của Nhà nước Việt Nam hiện nay để thúc đẩy tăng trưởng kinh tế.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Tài liệu khẳng định chức năng kinh tế mới là chức năng quan trọng nhất của Nhà nước ta hiện nay vì nó thúc đẩy sự tăng trưởng kinh tế, đảm bảo phương tiện vật chất cho CNH, HĐH."
+  },
+  {
+    "ID": 21,
+    "CauHoi": "Trong việc quản lý kinh tế, Nhà nước Việt Nam sử dụng các công cụ tài chính - tiền tệ và thuế, phí để điều tiết nền kinh tế.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Nhà nước quản lý kinh tế vĩ mô thông qua các hoạt động như: Sử dụng các công cụ tài chính - tiền tệ làm đòn bẩy kích thích tăng trưởng; sử dụng hợp lý thuế, phí để điều tiết nền kinh tế."
+  },
+  {
+    "ID": 22,
+    "CauHoi": "Để phát triển giáo dục, đào tạo, Nhà nước Việt Nam chủ trương thực hiện giáo dục toàn diện, trước hết là giáo dục nhân cách, đạo đức.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Nhà nước XHCN với phương châm nâng cao dân trí, đào tạo nhân lực, bồi dưỡng nhân tài phải: thực hiện giáo dục toàn diện, trước hết là giáo dục nhân cách, đạo đức."
+  },
+  {
+    "ID": 23,
+    "CauHoi": "Ở nước ta, phát triển khoa học công nghệ được coi là quốc sách hàng đầu và là then chốt trong sự nghiệp phát triển kinh tế, xã hội.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Khoa học công nghệ là quốc sách hàng đầu vì giữ vai trò then chốt trong sự nghiệp phát triển kinh tế - xã hội, là động lực đưa đất nước thoát khỏi nghèo nàn, tiến lên CNH, HĐH."
+  },
+  {
+    "ID": 24,
+    "CauHoi": "Nhà nước Việt Nam hiện nay chỉ tập trung ưu tiên phát triển kinh tế ở khu vực thành thị để làm đầu tàu cho cả nước.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Nhà nước có chính sách đảm bảo sự phát triển hài hòa của mọi vùng miền trong cả nước, ưu tiên phát triển ở những vùng sâu, vùng xa, nơi sinh sống của nhiều đồng bào thiểu số."
+  },
+  {
+    "ID": 25,
+    "CauHoi": "Thực hiện chức năng bảo vệ pháp luật đòi hỏi cơ quan nhà nước phải kịp thời phát hiện và xử lý nghiêm minh mọi vi phạm pháp luật.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Các cơ quan nhà nước có thẩm quyền phải kịp thời phát hiện và xử lý nghiêm minh mọi vi phạm pháp luật, bảo vệ quyền và lợi ích hợp pháp của Nhà nước, cộng đồng và các cá nhân, tổ chức."
+  },
+  {
+    "ID": 26,
+    "CauHoi": "Chức năng bảo vệ Tổ quốc của Nhà nước Việt Nam hiện nay yêu cầu phải tách biệt hoàn toàn kinh tế và quốc phòng an ninh.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Thực hiện chức năng bảo vệ Tổ quốc, Nhà nước phải kết hợp kinh tế với quốc phòng an ninh, quốc phòng an ninh với kinh tế."
+  },
+  {
+    "ID": 27,
+    "CauHoi": "Trong quan hệ ngoại giao, Nhà nước Việt Nam thực hiện phương châm 'không có kẻ thù mãi mãi, chỉ có lợi ích mãi mãi'.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tài liệu nêu rõ: Với phương châm \"không có kẻ thù mãi mãi, chỉ có lợi ích mãi mãi\", Nhà nước Việt Nam đã bình thường hóa quan hệ với cả những nước đã từng xâm lược Việt Nam."
+  },
+  {
+    "ID": 28,
+    "CauHoi": "Nhà nước Việt Nam từ chối thiết lập quan hệ bình thường hóa với các quốc gia đã từng xâm lược mình trong quá khứ.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Nhà nước Việt Nam đã bình thường hóa quan hệ với cả những nước đã từng xâm lược Việt Nam, dựa trên lợi ích quốc gia và nguyên tắc hợp tác bình đẳng."
+  },
+  {
+    "ID": 29,
+    "CauHoi": "Quy luật phát triển cho thấy tính xã hội và tính giai cấp của nhà nước thường tỉ lệ nghịch với nhau.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Biểu hiện tính xã hội và tính giai cấp của nhà nước thường tỉ lệ nghịch với nhau, tính xã hội của nhà nước thể hiện ngày càng rộng rãi, rõ rệt hơn, trong khi tính giai cấp thể hiện ngày càng mờ nhạt hơn."
+  },
+  {
+    "ID": 30,
+    "CauHoi": "Tất cả quyền lực của Nhà nước Việt Nam hiện nay thuộc về các cán bộ, công chức làm việc trong các cơ quan nhà nước.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Theo Điều 2 Hiến pháp: \"tất cả quyền lực nhà nước thuộc về Nhân dân\". Nhà nước chỉ là công cụ để đại diện và thực hiện quyền lực của toàn thể nhân dân, cán bộ công chức là người được nhân dân ủy quyền."
+  },
+  {
+    "ID": 31,
+    "CauHoi": "Bộ máy nhà nước là hệ thống các cơ quan nhà nước từ trung ương tới địa phương, được tổ chức và hoạt động theo quy định của pháp luật để thực hiện các chức năng, nhiệm vụ của nhà nước.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Dưới góc độ pháp lý, bộ máy nhà nước được hiểu là hệ thống các cơ quan nhà nước từ trung ương tới địa phương, được tổ chức và hoạt động theo quy định của pháp luật nhằm thực hiện các chức năng, nhiệm vụ của nhà nước."
+  },
+  {
+    "ID": 32,
+    "CauHoi": "Quy mô, cách thức tổ chức và phương thức hoạt động của bộ máy nhà nước là cố định và không chịu sự chi phối của chức năng nhà nước.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Quy mô, cách thức tổ chức và phương thức hoạt động của bộ máy nhà nước chịu sự chi phối của chức năng nhà nước và một số yếu tố khác. Ví dụ, nếu chức năng chủ yếu là tổ chức, quản lý kinh tế, xã hội thì bộ máy sẽ chủ yếu bao gồm các cơ quan quản lý các lĩnh vực này."
+  },
+  {
+    "ID": 33,
+    "CauHoi": "Mỗi cơ quan nhà nước luôn phải bao gồm một nhóm người (như quốc hội, chính phủ) chứ không thể chỉ là một cá nhân.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Mỗi cơ quan nhà nước gồm một số lượng người nhất định, có thể gồm một người (như nguyên thủ quốc gia ở nhiều nước), hoặc một nhóm người (quốc hội, chính phủ...)."
+  },
+  {
+    "ID": 34,
+    "CauHoi": "Tổ chức và hoạt động của các cơ quan nhà nước đều do pháp luật quy định một cách cụ thể.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tổ chức và hoạt động của cơ quan nhà nước do pháp luật quy định. Pháp luật quy định cụ thể về vị trí, tính chất, vai trò, con đường hình thành, cơ cấu tổ chức, nội dung, hình thức và phương pháp hoạt động của mỗi cơ quan trong bộ máy nhà nước."
+  },
+  {
+    "ID": 35,
+    "CauHoi": "Cơ quan lâm thời là cơ quan tồn tại thường xuyên trong bộ máy nhà nước để giải quyết những công việc hàng ngày.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Cơ quan lâm thời là cơ quan được thành lập để thực hiện những công việc có tính chất nhất thời của nhà nước, sau khi thực hiện xong công việc đó nó sẽ tự giải tán, ví dụ như Ủy ban sửa đổi Hiến pháp."
+  },
+  {
+    "ID": 36,
+    "CauHoi": "Qua các kiểu nhà nước, cấu trúc của bộ máy nhà nước phát triển từ sự phức tạp, đa dạng sang đơn giản, đơn điệu.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Theo quy luật phát triển, cấu trúc của bộ máy nhà nước phát triển từ đơn giản, đơn điệu sang phức tạp, đa dạng hơn. Nhà nước chủ nô có bộ máy đơn giản, trong khi các nhà nước đương đại có cơ cấu bộ máy phức tạp với nhiều hệ thống cơ quan."
+  },
+  {
+    "ID": 37,
+    "CauHoi": "Ở các nhà nước đương đại, sự phân chia chức năng và thẩm quyền giữa các cơ quan lập pháp, hành pháp và tư pháp đã tương đối rõ ràng, rành mạch.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Ở các nhà nước đương đại, sự phân chia chức năng, thẩm quyền giữa các cơ quan lập pháp, hành pháp, tư pháp đã tương đối rõ ràng, rành mạch và được quy định cụ thể trong pháp luật."
+  },
+  {
+    "ID": 38,
+    "CauHoi": "Việc chuyển quyền lực tối cao từ một người (nhà vua) sang nhiều người (nghị viện) là minh chứng cho việc cách thức tổ chức bộ máy nhà nước ngày càng quy củ và khoa học hơn.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Cách thức tổ chức bộ máy nhà nước ngày càng quy củ, chặt chẽ, khoa học hơn. Điều này thể hiện qua việc thực hiện quyền lực tối cao được chuyển dần từ một người (nhà vua, hoàng đế) sang nhiều người (nghị viện, nguyên thủ quốc gia...)."
+  },
+  {
+    "ID": 39,
+    "CauHoi": "Theo nguyên tắc tôn quân quyền, ý chí của người dân là pháp luật tối cao mà nhà vua phải tuân thủ.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Theo nguyên tắc tôn quân quyền, quyền lực của quân vương (nhà vua) là tối cao, tuyệt đối và vô hạn, ý chí của nhà vua mới là pháp luật. Toàn thể xã hội từ quan đến dân đều phải tuyệt đối trung thành với vua."
+  },
+  {
+    "ID": 40,
+    "CauHoi": "Trong nhà nước phong kiến áp dụng nguyên tắc tập quyền, nhà vua nắm giữ toàn bộ cả ba quyền: lập pháp, hành pháp và tư pháp.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Trong nhà nước phong kiến, quyền lực tối cao tập trung trong tay nhà vua. Về mặt pháp lý, nhà vua nắm giữ cả ba quyền lập pháp, hành pháp, tư pháp và có toàn quyền ban hành pháp luật."
+  },
+  {
+    "ID": 41,
+    "CauHoi": "Trong các nhà nước XHCN trước đây, Quốc hội được coi là cơ quan vừa lập pháp, vừa tư pháp.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Trong các nhà nước XHCN trước đây, có quan niệm cho rằng quốc hội phải khác nghị viện tư sản ở chỗ nó phải vừa là cơ quan lập pháp, vừa là cơ quan hành pháp chứ không phải tư pháp."
+  },
+  {
+    "ID": 42,
+    "CauHoi": "Thực chất của sự phân chia quyền lực nhà nước là phân định rạch ròi chức năng, nhiệm vụ, quyền hạn của các cơ quan nhà nước, đảm bảo tính chuyên môn hóa.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Thực chất của sự phân chia quyền lực là sự phân định một cách rạch ròi chức năng, nhiệm vụ, quyền hạn của các cơ quan nhà nước, đồng thời đảm bảo sự chuyên môn hóa trong việc thực hiện quyền lực nhà nước."
+  },
+  {
+    "ID": 43,
+    "CauHoi": "Tất cả các nhà nước tư bản trên thế giới đều áp dụng duy nhất một mô hình phân quyền cứng rắn.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Ở các nước tư bản, việc áp dụng nguyên tắc phân quyền không hoàn toàn giống nhau. Thực tế có thể có ba mô hình: mô hình phân quyền cứng rắn, mô hình phân quyền mềm dẻo, mô hình phân quyền hỗn hợp (trung gian)."
+  },
+  {
+    "ID": 44,
+    "CauHoi": "Nguyên tắc pháp chế đòi hỏi việc tổ chức và hoạt động của bộ máy nhà nước phải tiến hành một cách tuỳ tiện theo ý chí cá nhân của người cầm quyền.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Nguyên tắc pháp chế đòi hỏi việc tổ chức và hoạt động của bộ máy nhà nước không thể tiến hành một cách tuỳ tiện, độc đoán theo ý chí cá nhân của người cầm quyền mà phải dựa trên cơ sở các quy định của Hiến pháp và pháp luật."
+  },
+  {
+    "ID": 45,
+    "CauHoi": "Nguyên tắc tập trung dân chủ là nguyên tắc đặc thù trong tổ chức và hoạt động của bộ máy nhà nước tư sản.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Nguyên tắc tập trung dân chủ là nguyên tắc đặc thù trong tổ chức và hoạt động của bộ máy nhà nước xã hội chủ nghĩa, không phải nhà nước tư sản."
+  },
+  {
+    "ID": 46,
+    "CauHoi": "Theo nguyên tắc tập trung dân chủ, quyết định thuộc về số đông nhưng vẫn phải lắng nghe ý kiến của thiểu số.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Nguyên tắc tập trung dân chủ đòi hỏi quyết định thuộc về số đông nhưng phải lắng nghe ý kiến của thiểu số nhằm kết hợp hài hòa giữa mở rộng dân chủ và vai trò chỉ đạo tập trung."
+  },
+  {
+    "ID": 47,
+    "CauHoi": "Bộ máy Nhà nước Việt Nam hiện nay đang chuyển dần sang tính chất phục vụ nhân dân, chủ yếu cung cấp dịch vụ công cho xã hội.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Nhìn tổng thể, bộ máy Nhà nước Việt Nam hiện nay đang chuyển dần sang tính chất phục vụ nhân dân, chủ yếu cung cấp dịch vụ công như điện, nước, đường giao thông, y tế, giáo dục... cho xã hội."
+  },
+  {
+    "ID": 48,
+    "CauHoi": "Trong bộ máy Nhà nước Việt Nam, Quốc hội và Hội đồng nhân dân các cấp được xếp vào nhóm cơ quan quản lý hành chính nhà nước.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Quốc hội và Hội đồng nhân dân các cấp là các cơ quan quyền lực nhà nước (cơ quan đại biểu, đại diện hoặc dân cử). Chính phủ và Ủy ban nhân dân các cấp mới là các cơ quan quản lý hành chính nhà nước."
+  },
+  {
+    "ID": 49,
+    "CauHoi": "Chủ tịch nước Việt Nam do cử tri cả nước trực tiếp bầu ra thông qua tuyển cử phổ thông đầu phiếu.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Chủ tịch nước do Quốc hội bầu ra trong số các đại biểu Quốc hội và có thể bị Quốc hội bãi miễn. Chỉ có cơ quan quyền lực nhà nước (Quốc hội, HĐND) mới do cử tri trực tiếp bầu ra."
+  },
+  {
+    "ID": 50,
+    "CauHoi": "Chính phủ và Ủy ban nhân dân các cấp phải chịu trách nhiệm, báo cáo công tác và chịu sự kiểm tra, giám sát của cơ quan quyền lực nhà nước cùng cấp.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Các cơ quan quản lý hành chính nhà nước do cơ quan quyền lực cùng cấp bầu ra và phải chịu trách nhiệm, báo cáo công tác trước cơ quan quyền lực cùng cấp, chịu sự kiểm tra, giám sát của cơ quan quyền lực cùng cấp."
+  },
+  {
+    "ID": 51,
+    "CauHoi": "Viện Kiểm sát nhân dân tối cao là cơ quan có chức năng thực hành quyền xét xử tối cao các vụ án.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Cơ quan có chức năng xét xử các vụ án là Tòa án nhân dân. Viện Kiểm sát nhân dân tối cao có chức năng thực hành quyền công tố và kiểm sát các hoạt động tư pháp."
+  },
+  {
+    "ID": 52,
+    "CauHoi": "Hội đồng bầu cử quốc gia là cơ quan do Quốc hội thành lập để tổ chức bầu cử đại biểu Quốc hội.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Hội đồng bầu cử quốc gia là cơ quan do Quốc hội thành lập, có nhiệm vụ tổ chức bầu cử đại biểu Quốc hội; chỉ đạo và hướng dẫn công tác bầu cử đại biểu Hội đồng nhân dân các cấp."
+  },
+  {
+    "ID": 53,
+    "CauHoi": "Kiểm toán Nhà nước thực hiện kiểm toán việc quản lý, sử dụng tài chính, tài sản công và báo cáo công tác trước Chính phủ.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Tổng Kiểm toán Nhà nước chịu trách nhiệm và báo cáo kết quả kiểm toán, báo cáo công tác trước Quốc hội; trong thời gian Quốc hội không họp thì báo cáo trước Ủy ban thường vụ Quốc hội."
+  },
+  {
+    "ID": 54,
+    "CauHoi": "Nguyên tắc 'tất cả quyền lực nhà nước thuộc về nhân dân' được ghi nhận rõ ràng trong Hiến pháp hiện hành của Việt Nam.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Đây là nguyên tắc hiến định, được quy định tại các điều 2, 3, 6, 28... của Hiến pháp hiện hành."
+  },
+  {
+    "ID": 55,
+    "CauHoi": "Nguyên tắc quyền lực nhà nước ở Việt Nam đề cao sự độc lập tuyệt đối và không có sự kiểm soát, phối hợp giữa các cơ quan quyền lực.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Nguyên tắc tổ chức của nhà nước ta quy định quyền lực nhà nước là thống nhất, nhưng có sự phân công, phối hợp và kiểm soát giữa các cơ quan nhà nước trong việc thực hiện các quyền lập pháp, hành pháp, tư pháp."
+  },
+  {
+    "ID": 56,
+    "CauHoi": "Chủ tịch nước đóng vai trò như một mắt xích liên kết, phối hợp giữa Quốc hội, Chính phủ, Tòa án nhân dân tối cao và Viện Kiểm sát nhân dân tối cao.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Trong quá trình phối hợp hoạt động để bảo đảm sự thống nhất của quyền lực nhà nước, Chủ tịch nước như là một mắt xích liên kết, phối hợp giữa Quốc hội, Chính phủ, Tòa án nhân dân tối cao, Viện Kiểm sát nhân dân tối cao."
+  },
+  {
+    "ID": 57,
+    "CauHoi": "Đảng Cộng sản Việt Nam thực hiện sự lãnh đạo đối với Nhà nước bằng cách trực tiếp ban hành các quyết định xử phạt vi phạm hành chính thay cho chính quyền.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Đảng thực hiện sự lãnh đạo bằng phương pháp tuyên truyền, vận động, giáo dục, thuyết phục, đề ra đường lối chính sách chứ không trực tiếp ra quyết định xử phạt. Thực tế yêu cầu phải tránh tình trạng Đảng ôm đồm, bao biện, làm thay nhà nước."
+  },
+  {
+    "ID": 58,
+    "CauHoi": "Nguyên tắc pháp chế XHCN đòi hỏi các cơ quan nhà nước khi ban hành văn bản quy phạm pháp luật phải phù hợp với Hiến pháp và văn bản của cơ quan cấp trên.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Khi ban hành các văn bản quy phạm pháp luật, cơ quan nhà nước phải bảo đảm cho nội dung các quy định trong văn bản phù hợp với Hiến pháp, văn bản của cơ quan cấp trên và văn bản của cơ quan quyền lực cùng cấp."
+  },
+  {
+    "ID": 59,
+    "CauHoi": "Theo Hiến pháp hiện hành, các dân tộc thiểu số tại Việt Nam không được phép sử dụng tiếng nói và chữ viết của dân tộc mình.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Theo Hiến pháp, các dân tộc không phân biệt lớn nhỏ đều hoàn toàn bình đẳng với nhau, có quyền dùng tiếng nói, chữ viết, giữ gìn bản sắc, phong tục tập quán, truyền thống tốt đẹp của dân tộc mình."
+  },
+  {
+    "ID": 60,
+    "CauHoi": "Để hoàn thiện bộ máy nhà nước Việt Nam, cần phải thiết kế và áp dụng chung duy nhất một mô hình quản lý cho toàn quốc, bất chấp sự khác biệt vùng miền.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Việc thiết kế bộ máy nhà nước phải chú ý sự khác biệt giữa các vùng, miền trong cả nước, tránh áp dụng một mô hình chung cho toàn quốc."
+  },
+  {
+    "ID": 61,
+    "CauHoi": "Khái niệm hình thức nhà nước chỉ bao gồm cách thức tổ chức quyền lực nhà nước theo chiều ngang ở cấp tối cao.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Xem xét hình thức nhà nước là xem xét cách thức tổ chức quyền lực nhà nước theo chiều ngang (ở cấp tối cao), chiều dọc (từ cấp tối cao xuống cơ sở) và phương pháp, cách thức để thực hiện quyền lực nhà nước."
+  },
+  {
+    "ID": 62,
+    "CauHoi": "Ba yếu tố cấu thành khái niệm hình thức nhà nước là: Hình thức chính thể, Hình thức cấu trúc nhà nước và Chế độ chính trị.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Hình thức nhà nước là khái niệm chung được hình thành từ ba yếu tố cụ thể: Hình thức chính thể nhà nước, Hình thức cấu trúc nhà nước và Chế độ chính trị."
+  },
+  {
+    "ID": 63,
+    "CauHoi": "Trong chính thể quân chủ, toàn bộ hoặc một phần quyền lực tối cao của nhà nước được trao cho một cá nhân theo phương thức chủ yếu là bầu cử.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Chính thể quân chủ là chính thể mà quyền lực tối cao được trao cho một cá nhân (vua, quốc vương...) theo phương thức chủ yếu là cha truyền con nối (thế tập), chứ không phải bầu cử."
+  },
+  {
+    "ID": 64,
+    "CauHoi": "Đặc trưng của quân chủ chuyên chế (tuyệt đối) là nhà vua có quyền lực tối cao và vô hạn trong cả ba lĩnh vực: lập pháp, hành pháp và tư pháp.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Quân chủ chuyên chế (tuyệt đối) là chính thể mà về mặt pháp lý, nhà vua có quyền lực tối cao và vô hạn trong cả ba lĩnh vực lập pháp, hành pháp và tư pháp, không bị chia xẻ cho ai và không chịu sự hạn chế nào."
+  },
+  {
+    "ID": 65,
+    "CauHoi": "Chính thể cộng hòa là hình thức mà quyền lực tối cao của nhà nước được trao cho một hoặc một số cơ quan theo phương thức chủ yếu là thế tập.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Chính thể cộng hòa là chính thể mà quyền lực tối cao của nhà nước được trao cho một hoặc một số cơ quan theo phương thức chủ yếu là bầu cử."
+  },
+  {
+    "ID": 66,
+    "CauHoi": "Trong chính thể cộng hòa quý tộc, quyền bầu cử và được bầu vào cơ quan tối cao của quyền lực nhà nước thuộc về mọi công dân.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Cộng hòa quý tộc là chính thể mà quyền bầu cử và được bầu vào cơ quan tối cao của quyền lực nhà nước chỉ thuộc về tầng lớp quý tộc. Việc thuộc về mọi công dân (khi đủ điều kiện) là đặc trưng của cộng hòa dân chủ."
+  },
+  {
+    "ID": 67,
+    "CauHoi": "Đặc trưng của nhà nước đơn nhất là cả nước có nhiều hệ thống pháp luật và nhiều hệ thống chính quyền song song tồn tại.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Đặc trưng của nhà nước đơn nhất là cả nước chỉ có một hệ thống chính quyền và một hệ thống pháp luật."
+  },
+  {
+    "ID": 68,
+    "CauHoi": "Trong nhà nước liên bang, chỉ có nhà nước liên bang mới là chủ thể độc lập của luật quốc tế, các bang thành viên phải phụ thuộc vào nhà nước liên bang.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Trong nhà nước liên bang, chỉ có nhà nước liên bang mới có chủ quyền hoàn toàn, đại diện cho toàn quốc gia dân tộc và là chủ thể độc lập của luật quốc tế, các nhà nước thành viên phải phụ thuộc vào nhà nước liên bang."
+  },
+  {
+    "ID": 69,
+    "CauHoi": "Nhà nước đơn nhất không bao giờ chứa đựng yếu tố liên bang và ngược lại.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Trong nhà nước đơn nhất có thể có yếu tố liên bang (ví dụ như Hồng Kông, Macao của Trung Quốc), và ngược lại, trong nhà nước liên bang có thể có yếu tố đơn nhất (ví dụ như Washington D.C của Mỹ)."
+  },
+  {
+    "ID": 70,
+    "CauHoi": "Trong nhà nước liên minh, tính độc lập của các nhà nước thành viên cao hơn so với trong nhà nước liên bang.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tính độc lập của các nhà nước thành viên trong nhà nước liên minh cao hơn so với nhà nước liên bang vì mỗi nhà nước thành viên vẫn là chủ thể độc lập của luật quốc tế."
+  },
+  {
+    "ID": 71,
+    "CauHoi": "Chế độ chính trị là tổng thể các phương pháp mà nhà nước sử dụng để tổ chức và thực hiện quyền lực nhà nước.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Chế độ chính trị được định nghĩa là tổng thể các phương pháp mà nhà nước sử dụng để tổ chức và thực hiện quyền lực nhà nước (bao gồm phương pháp lựa chọn người nắm giữ quyền lực, phương pháp thực hiện quyền lực và phương pháp xây dựng quyết định quan trọng)."
+  },
+  {
+    "ID": 72,
+    "CauHoi": "Chế độ dân chủ hạn chế là chế độ mà mọi công dân đều có quyền bầu cử và tham gia thực hiện các hoạt động của nhà nước.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Dân chủ hạn chế là chế độ mà chỉ có một bộ phận của dân chúng hoặc những tầng lớp đặc biệt trong xã hội mới có quyền bầu cử, ứng cử và bàn bạc, quyết định các vấn đề quan trọng của nhà nước."
+  },
+  {
+    "ID": 73,
+    "CauHoi": "Chế độ độc tài, chế độ phát xít và chế độ phân biệt chủng tộc là những biến dạng cực đoan của chế độ phản dân chủ.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Chế độ phản dân chủ có những biến dạng cực đoan như chế độ độc tài, chế độ phát xít, chế độ phân biệt chủng tộc, chế độ diệt chủng."
+  },
+  {
+    "ID": 74,
+    "CauHoi": "Trong kiểu nhà nước chủ nô, chính thể cộng hòa dân chủ đã xuất hiện ở nhà nước Sparte và La Mã.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Ở nhà nước chủ nô, chính thể cộng hòa quý tộc tồn tại ở nhà nước La Mã và nhà nước Sparte, trong khi chính thể cộng hòa dân chủ xuất hiện ở Athens."
+  },
+  {
+    "ID": 75,
+    "CauHoi": "Trong giai đoạn phân quyền cát cứ của nhà nước phong kiến phương Tây, quyền lực của nhà vua bị suy yếu và các lãnh chúa có toàn quyền trong lãnh địa của mình.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Trong giai đoạn phân quyền cát cứ, quyền lực của vua trong các lãnh địa ngày càng suy yếu dần; các lãnh chúa, quý tộc ngày càng củng cố quyền lực, trở nên có toàn quyền trong lãnh địa của mình và tìm cách thoát khỏi vòng kiềm tỏa của vua."
+  },
+  {
+    "ID": 76,
+    "CauHoi": "Trong chính thể quân chủ nhị hợp, bộ trưởng chỉ chịu trách nhiệm duy nhất trước nghị viện.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Trong chính thể quân chủ nhị hợp, bộ trưởng được gọi là bộ trưởng của nhà vua, vừa chịu trách nhiệm trước nghị viện, vừa chịu trách nhiệm trước vua (ví như \"nàng dâu có hai bà mẹ chồng\")."
+  },
+  {
+    "ID": 77,
+    "CauHoi": "Đặc trưng của chính thể quân chủ đại nghị là nhà vua chỉ đại diện về mặt hình thức, không có thực quyền và chỉ \"ngự trị nhưng không cai trị\".",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Ở chính thể quân chủ đại nghị, quyền lực của vua chỉ là hình thức, nghi lễ và tượng trưng; vua không trực tiếp giải quyết các công việc nhà nước, không có thực quyền và chỉ \"ngự trị nhưng không cai trị\"."
+  },
+  {
+    "ID": 78,
+    "CauHoi": "Trong chính thể cộng hòa tổng thống, tổng thống do nghị viện bầu ra và phải chịu trách nhiệm trước nghị viện.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Ở chính thể cộng hòa tổng thống (như Mỹ), tổng thống và nghị viện đều do cử tri bầu ra, do đó có thể độc lập với nhau và tổng thống không phải chịu trách nhiệm trước nghị viện."
+  },
+  {
+    "ID": 79,
+    "CauHoi": "Trong chính thể cộng hòa đại nghị, nội các (chính phủ) là trụ cột và trung tâm quyết sách của toàn bộ các cơ quan hành chính nhà nước.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Ở cộng hòa đại nghị, nội các là trụ cột và trung tâm quyết sách của toàn bộ các cơ quan hành chính nhà nước, do đó chính thể này còn được gọi là chế độ nội các."
+  },
+  {
+    "ID": 80,
+    "CauHoi": "Chính thể cộng hòa hỗn hợp (lưỡng tính) là sự kết hợp giữa đặc trưng của chính thể cộng hòa quý tộc và cộng hòa dân chủ.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Cộng hòa hỗn hợp (hay lưỡng tính) là hình thức chính thể vừa có những đặc trưng của chính thể cộng hòa tổng thống, vừa có những đặc trưng của cộng hòa đại nghị."
+  },
+  {
+    "ID": 81,
+    "CauHoi": "Ở nước Cộng hòa Hồi giáo Iran, Hội đồng tư vấn Hồi giáo (Quốc hội) là cơ quan duy nhất có quyền giải thích Hiến pháp.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Tại Iran, Hội đồng giám hộ (bảo vệ) Hiến pháp mới là cơ quan duy nhất giải thích Hiến pháp, giám sát các cuộc bầu cử, trưng cầu ý dân và có quyền phủ quyết các nghị quyết của Quốc hội."
+  },
+  {
+    "ID": 82,
+    "CauHoi": "Kiểu nhà nước Xã hội chủ nghĩa chỉ tồn tại duy nhất một dạng chính thể là cộng hòa dân chủ.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tài liệu khẳng định nhà nước XHCN chỉ có chính thể cộng hòa dân chủ (tuy có những biểu hiện khác nhau như Công xã Pari, Cộng hòa Xô viết, Cộng hòa DCND, Cộng hòa Cuba) và chính thể quân chủ không còn tồn tại."
+  },
+  {
+    "ID": 83,
+    "CauHoi": "Sau khi giành chính quyền, Công xã Pari đã giữ lại nguyên vẹn quân đội thường trực và lực lượng cảnh sát cũ của Chính phủ Their.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Hội đồng công xã Pari đã ban hành sắc lệnh quy định: Xóa bỏ quân đội thường trực của Chính phủ Their để thành lập lực lượng quân đội nhân dân; Xóa bỏ lực lượng cảnh sát cũ để thành lập lực lượng an ninh nhân dân."
+  },
+  {
+    "ID": 84,
+    "CauHoi": "Ở giai đoạn đầu (1917 - 1936), nhà nước Xô Viết đã công khai quy định quyền ưu tiên trong bầu cử cho giai cấp công nhân cao hơn so với nông dân.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Thời gian đầu (từ 1917 - 1936), nhà nước Xô Viết công khai quy định quyền ưu tiên trong bầu cử cho công nhân, thể hiện ở tỉ lệ đại biểu/cử tri ở thành phố là 1/25000 trong khi ở nông thôn là 1/125000."
+  },
+  {
+    "ID": 85,
+    "CauHoi": "Hình thức cấu trúc nhà nước liên bang đã tồn tại phổ biến và thể hiện đầy đủ các đặc trưng ngay từ thời kỳ nhà nước chủ nô.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Các nhà nước chủ nô, phong kiến hầu như đều có cấu trúc đơn nhất. Nhà nước liên bang chỉ xuất hiện sau khi nhà nước tư sản ra đời và mới thể hiện đầy đủ các đặc trưng như hiện nay."
+  },
+  {
+    "ID": 86,
+    "CauHoi": "Hiện nay, chế độ dân chủ tư sản đã được mở rộng thành một nền dân chủ rộng rãi và thực chất cho mọi người lao động.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Hiện nay, mặc dù nền dân chủ tư sản có xu hướng mở rộng hơn, nhưng đó vẫn là một nền dân chủ hạn chế, chủ yếu là dân chủ với các nhà tư bản. Đối với nhiều người lao động, các quyền tự do dân chủ vẫn chỉ mang tính hình thức."
+  },
+  {
+    "ID": 87,
+    "CauHoi": "Hình thức chính thể của Nhà nước Việt Nam hiện nay là cộng hòa đại nghị.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Hình thức chính thể của Nhà nước Việt Nam hiện nay là cộng hòa dân chủ nhân dân."
+  },
+  {
+    "ID": 88,
+    "CauHoi": "Ở Việt Nam, Chủ tịch nước do Quốc hội bầu ra trong số các đại biểu Quốc hội và phải chịu trách nhiệm, báo cáo công tác trước Quốc hội.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Theo quy định, Quốc hội bầu Chủ tịch nước trong số các đại biểu Quốc hội. Chủ tịch nước phải chịu trách nhiệm trước Quốc hội, báo cáo công tác với Quốc hội và có thể bị Quốc hội miễn nhiệm, bãi nhiệm."
+  },
+  {
+    "ID": 89,
+    "CauHoi": "Hình thức cấu trúc của Nhà nước Việt Nam hiện nay là nhà nước đơn nhất, trung ương tập quyền.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tài liệu ghi rõ: Hình thức cấu trúc của Nhà nước Việt Nam hiện nay là nhà nước đơn nhất, trung ương tập quyền."
+  },
+  {
+    "ID": 90,
+    "CauHoi": "Ở Nhà nước Việt Nam hiện nay, chính quyền địa phương có chủ quyền độc lập và có quyền tự ban hành hệ thống pháp luật riêng cho địa phương mình.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Ở Việt Nam, địa phương là các đơn vị hành chính lãnh thổ không có chủ quyền: không được tự tổ chức bộ máy chính quyền của riêng mình và không có quyền ban hành pháp luật cho riêng mình (chỉ được ban hành văn bản để quy định chi tiết, hướng dẫn văn bản trung ương)."
+  },
+  {
+    "ID": 91,
+    "CauHoi": "Theo Aristote, nhà nước là một tổ chức quyền lực chính trị của xã hội có giai cấp, dùng để duy trì sự thống trị.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Theo tài liệu, Aristote cho rằng nhà nước là \"Một cộng đồng hạnh phúc trong các gia đình và những sự kết hợp của các gia đình vì lợi ích của một cuộc sống hoàn hảo và độc lập\". Quan điểm nhà nước là bộ máy duy trì sự thống trị giai cấp là của Lênin."
+  },
+  {
+    "ID": 92,
+    "CauHoi": "Lênin khẳng định nhà nước là một bộ máy tự tách ra từ xã hội, gồm một nhóm người chuyên làm công việc cai trị và để trấn áp giai cấp khác.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Theo Lênin, \"Nhà nước bao giờ cũng là một bộ máy nhất định, nó tự tách ra từ xã hội và gồm một nhóm người chỉ chuyên... làm công việc cai trị\" và \"là bộ máy trấn áp đặc biệt của giai cấp này đối với giai cấp khác\"."
+  },
+  {
+    "ID": 93,
+    "CauHoi": "Về mặt khái niệm, nhà nước và xã hội là hoàn toàn đồng nhất với nhau.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Tài liệu ghi rõ: \"Là một hình thức tổ chức của con người, của XH nhưng NN không đồng nhất với XH, nó chỉ là một bộ phận của XH\"."
+  },
+  {
+    "ID": 94,
+    "CauHoi": "Một trong những đặc điểm của nhà nước là quản lý dân cư theo huyết thống và tôn giáo.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Đặc điểm của nhà nước là \"thực hiện việc quản lý dân cư theo lãnh thổ\". Nếu như các tổ chức xã hội khác tập hợp theo huyết thống, nghề nghiệp... thì nhà nước lấy việc quản lý dân cư theo lãnh thổ làm điểm xuất phát."
+  },
+  {
+    "ID": 95,
+    "CauHoi": "Trong mối quan hệ quyền lực nhà nước, nhà nước là chủ thể quyền lực còn các cá nhân, tổ chức khác trong xã hội là đối tượng phải phục tùng.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tài liệu nêu: \"Trong mối quan hệ này, NN là chủ thể của quyền lực, các cá nhân, tổ chức khác trong xã hội là đối tượng của quyền lực ấy, họ phải phục tùng ý chí của NN\"."
+  },
+  {
+    "ID": 96,
+    "CauHoi": "Hiến pháp của các nước tuyên bố chủ quyền quốc gia thuộc về nhân dân, nhưng nhân dân ủy quyền cho nhà nước thực hiện.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tài liệu khẳng định: \"Hiến pháp của các nước tuyên bố chủ quyền quốc gia thuộc về nhân dân, nhưng nhân dân uỷ quyền cho NN thực hiện... NN là đại diện chính thức cho toàn quốc gia, dân tộc\"."
+  },
+  {
+    "ID": 97,
+    "CauHoi": "Ngoài nhà nước, các tổ chức chính trị - xã hội lớn trong xã hội cũng có quyền ban hành pháp luật.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Tài liệu ghi rõ một đặc điểm độc quyền của nhà nước là: \"Trong XH chỉ mình NN có quyền ban hành PL\"."
+  },
+  {
+    "ID": 98,
+    "CauHoi": "Việc nhà nước thu thuế là để tạo nguồn của cải nuôi dưỡng bộ máy nhà nước chuyên thực hiện chức năng quản lý xã hội.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Nhà nước là bộ máy tách ra khỏi lao động sản xuất trực tiếp để chuyên quản lý xã hội, do đó \"nó phải được nuôi dưỡng từ nguồn của cải do dân cư đóng góp, không có thuế bộ máy NN không thể tồn tại được\"."
+  },
+  {
+    "ID": 99,
+    "CauHoi": "Theo thuyết hợp đồng xã hội, nhà nước hình thành trên cơ sở sự phát triển tự nhiên của các gia đình.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Quan điểm nhà nước hình thành trên cơ sở sự phát triển tự nhiên của các gia đình là \"Thuyết gia trưởng\". Thuyết hợp đồng XH cho rằng nhà nước ra đời trên cơ sở một hợp đồng hay thỏa thuận tự nguyện giữa mọi người."
+  },
+  {
+    "ID": 100,
+    "CauHoi": "Thuyết bạo lực cho rằng nhà nước là sản phẩm của cuộc chiến tranh giữa các thị tộc, dùng làm công cụ để nô dịch kẻ bại trận.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Theo thuyết bạo lực, thời nguyên thủy các thị tộc gây chiến với nhau. Thị tộc chiến thắng thiết lập hệ thống cơ quan bạo lực đặc biệt để nô dịch kẻ bại trận, đó chính là nhà nước."
+  },
+  {
+    "ID": 101,
+    "CauHoi": "Chủ nghĩa Mác - Lênin quan niệm nhà nước là một hiện tượng siêu nhiên, vĩnh cửu và bất biến của xã hội loài người.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Chủ nghĩa Mác - Lênin khẳng định: \"NN không phải là hiện tượng siêu nhiên hay là sản phẩm của tự nhiên, cũng không phải là vĩnh cửu và bất biến mà là một phạm trù lịch sử, có quá trình phát sinh, phát triển và tiêu vong\"."
+  },
+  {
+    "ID": 102,
+    "CauHoi": "Theo quan điểm Mác - Lênin, nhà nước chỉ xuất hiện khi xã hội đã phân chia thành giai cấp và có mâu thuẫn giai cấp.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tài liệu nêu: \"NN chỉ xuất hiện khi XH đã phát triển đến giai đoạn có sự phân chia con người thành giai cấp... mâu thuẫn và đấu tranh với nhau; đồng thời có sự tích tụ của cải và tập trung quyền lực\"."
+  },
+  {
+    "ID": 103,
+    "CauHoi": "Trong xã hội cộng sản nguyên thủy, nền kinh tế chủ đạo là nền sản xuất hàng hóa và trao đổi tự do.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Trong xã hội cộng sản nguyên thủy, \"Nền kinh tế là tự nhiên, tự cấp và tự túc, săn bắn và hái lượm\"."
+  },
+  {
+    "ID": 104,
+    "CauHoi": "Quyền lực xã hội thời nguyên thủy không có bộ máy riêng để thực hiện và hòa nhập với cộng đồng cư dân.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Đặc điểm của quyền lực xã hội thời nguyên thủy là: Không tách rời khỏi cộng đồng, hòa nhập với dân cư, phục vụ lợi ích cộng đồng và \"Không có bộ máy riêng để thực hiện\"."
+  },
+  {
+    "ID": 105,
+    "CauHoi": "Lần phân công lao động xã hội lần thứ hai trong lịch sử là sự xuất hiện của chăn nuôi.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Theo tài liệu, 3 lần phân công lao động là: Lần 1: Chăn nuôi xuất hiện; Lần 2: Thủ công nghiệp tách khỏi nông nghiệp; Lần 3: Thương nhân xuất hiện. Vậy lần 2 không phải là chăn nuôi."
+  },
+  {
+    "ID": 106,
+    "CauHoi": "Nhà nước ra đời để thay thế cho chế độ thị tộc khi chế độ này tỏ ra bất lực trước sự mâu thuẫn và phân hóa giai cấp gay gắt.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tài liệu ghi: \"Trước thực trạng trên, chế độ thị tộc tỏ ra bất lực... Nhu cầu khách quan của sự quản lý xã hội có sự phân hoá, mâu thuẫn và đấu tranh giai cấp đó đòi hỏi phải có một tổ chức mới... Tổ chức đó chính là nhà nước\"."
+  },
+  {
+    "ID": 107,
+    "CauHoi": "Nhà nước phương Đông cổ đại ra đời chủ yếu do nhu cầu quản lý công trình thủy nông để trị thủy và tự vệ chống ngoại xâm.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Lý do trực tiếp dẫn đến sự xuất hiện các nhà nước phương Đông cổ đại là \"chủ yếu do nhu cầu bảo vệ những lợi ích chung như quản lý việc xây dựng và sử dụng các công trình thuỷ nông để trị thuỷ... tự vệ để chống lại những kẻ thù bên ngoài\"."
+  },
+  {
+    "ID": 108,
+    "CauHoi": "Sự xuất hiện của nhà nước La Mã được Ăng-ghen coi là mô hình thuần túy nhất và cổ điển nhất.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Nhà nước A-ten mới là dạng được Ăng-ghen coi là mô hình thuần túy nhất, cổ điển nhất. Nhà nước La Mã xuất hiện do chiến thắng của người bình dân chống lại quý tộc."
+  },
+  {
+    "ID": 109,
+    "CauHoi": "Nhà nước Germania nảy sinh từ nhu cầu thay thế nhà nước La Mã để quản lý những vùng đất chiếm được của người La Mã.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tài liệu ghi rõ: \"NN Germania: Nảy sinh từ nhu cầu thay thế NN La Mã để quản lý những vùng đất mà người Germania giành lại được và chiếm được của người La Mã\"."
+  },
+  {
+    "ID": 110,
+    "CauHoi": "Việc phân chia kiểu nhà nước theo chủ nghĩa Mác - Lênin được dựa trên các nền văn minh của nhân loại.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Theo chủ nghĩa Mác - Lênin, việc phân chia kiểu nhà nước dựa vào \"hình thái kinh tế xã hội mà nhà nước đã ra đời, tồn tại và phát triển\", không phải dựa trên nền văn minh."
+  },
+  {
+    "ID": 111,
+    "CauHoi": "Đặc trưng của nhà nước chuyên chế là quyền lực nhà nước không bị hạn chế và sử dụng biện pháp bạo lực để thực hiện quyền lực.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Nhà nước chuyên chế có đặc trưng là \"quyền lực NN không bị hạn chế, NN không bị ràng buộc bởi bất cứ thể chế, thiết chế nào... NN sử dụng biện pháp bạo lực để thực hiện quyền lực NN\"."
+  },
+  {
+    "ID": 112,
+    "CauHoi": "Theo quy luật phát triển, sự thay thế kiểu nhà nước luôn bắt buộc mọi quốc gia phải trải qua tuần tự tất cả các kiểu nhà nước mà không được bỏ qua.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Tài liệu có ghi: \"Tuy nhiên, đối với mỗi nước cụ thể, do điều kiện lịch sử khách quan, có thể bỏ qua một hoặc một số kiểu NN nhất định (ví dụ: NN ở Việt Nam)\"."
+  },
+  {
+    "ID": 113,
+    "CauHoi": "Nguyên nhân sâu xa của sự thay thế kiểu nhà nước là mâu thuẫn giữa quan hệ sản xuất và lực lượng sản xuất trong một phương thức sản xuất.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tài liệu nêu rõ: \"Nguyên nhân sâu xa của sự thay thế kiểu nhà nước là mâu thuẫn giữa quan hệ SX và lực lượng SX trong một phương thức SX xã hội\"."
+  },
+  {
+    "ID": 114,
+    "CauHoi": "Trong thời kỳ quá độ chuyển từ hình thái kinh tế xã hội này sang hình thái kinh tế xã hội khác, có thể tồn tại những nhà nước không thuộc 4 kiểu nhà nước cơ bản.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tài liệu giải thích rằng trong thời kỳ quá độ \"sẽ có những NN không thuộc vào kiểu nào trong 4 kiểu NN đã nêu\" do sự cân bằng lực lượng giai cấp tạm thời."
+  },
+  {
+    "ID": 115,
+    "CauHoi": "Trong kiểu nhà nước chủ nô, hai giai cấp chính cấu thành cơ sở xã hội là chủ nô và nông dân.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Đặc điểm cơ sở xã hội của nhà nước chủ nô gồm \"2 G/C chính: CN (chủ nô) và NL (nô lệ)\". Nông dân chỉ thuộc nhóm các lực lượng xã hội khác."
+  },
+  {
+    "ID": 116,
+    "CauHoi": "Cơ sở kinh tế của nhà nước phong kiến là chế độ sở hữu tư nhân của địa chủ, quý tộc về tư liệu sản xuất và sự bóc lột sức lao động nông dân.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Đặc điểm cơ sở kinh tế của nhà nước phong kiến là: \"QHSX FK, đặc trưng: CĐ SH tư nhân của địa chủ, quý tộc FK về TLSX và sự bóc lột 1 phần sức LĐ của ND\"."
+  },
+  {
+    "ID": 117,
+    "CauHoi": "Kiểu nhà nước tư bản chủ nghĩa ra đời thông qua cách mạng xã hội do giai cấp công nhân lãnh đạo.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Nhà nước tư bản chủ nghĩa ra đời thông qua \"Cách mạng hoặc cải biến XH do G/C TS (tư sản) lãnh đạo\". Giai cấp công nhân lãnh đạo cách mạng tạo ra nhà nước XHCN."
+  },
+  {
+    "ID": 118,
+    "CauHoi": "Cơ sở kinh tế của nhà nước xã hội chủ nghĩa dựa trên chế độ công hữu về tư liệu sản xuất chủ yếu.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Cơ sở kinh tế của kiểu nhà nước XHCN là \"QHSX XHCN: CĐ công hữu TLSX chủ yếu và QH hữu nghị, hợp tác giữa những người LĐ\"."
+  },
+  {
+    "ID": 119,
+    "CauHoi": "Cơ sở xã hội của kiểu nhà nước tư bản chủ nghĩa chỉ bao gồm duy nhất giai cấp tư sản.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Cơ sở xã hội của nhà nước TBCN gồm \"2 G/C chính: TS (tư sản) và CN (công nhân) + các LL XH khác: ND, thợ thủ công...\" chứ không chỉ duy nhất giai cấp tư sản."
+  },
+  {
+    "ID": 120,
+    "CauHoi": "Sự sụp đổ của hệ thống XHCN ở Đông Âu vào cuối thế kỷ XX là minh chứng cho sự sụp đổ hoàn toàn của học thuyết Mác - Lênin.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Tài liệu khẳng định rõ: \"sự sụp đổ của Liên Xô và các nước XHCN Đông Âu hoàn toàn không phải là sự sụp đổ của học thuyết Mác-Lênin mà 'đó là sụp đổ của một mô hình lỗi thời được phổ biến ở nhiều nước tới mức đồng dạng'\"."
+  },
+  {
+    "ID": 121,
+    "CauHoi": "Theo Khổng Tử, pháp luật được đồng nhất với 'hình pháp' và chỉ được đặt ra cho những người không hiểu và không theo được 'lễ'.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Ở Trung Quốc cổ đại, đại diện là Khổng Tử cho rằng pháp luật được đồng nhất với 'hình pháp' (sự trừng phạt). Nó chỉ được đặt ra cho những người không hiểu và không theo được 'lễ'."
+  },
+  {
+    "ID": 122,
+    "CauHoi": "Theo Hàn Phi Tử, bản chất của con người là hướng thiện nên người cầm quyền phải dựa chủ yếu vào lễ, nhạc để duy trì trật tự xã hội.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Hàn Phi Tử cho rằng bản chất của con người là tham lam, ích kỷ (bản tính ác). Vì vậy, để thiết lập trật tự xã hội, người cầm quyền không thể dựa vào lễ, nhạc mà phải sử dụng luật pháp công khai, minh bạch."
+  },
+  {
+    "ID": 123,
+    "CauHoi": "Trường phái pháp luật thực định ở phương Tây quan niệm pháp luật là những quy tắc do nhà nước ban hành và bảo đảm thực hiện nhằm thiết lập trật tự xã hội.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Theo trường phái pháp luật thực định, pháp luật là những quy tắc do nhà nước ban hành và bảo đảm thực hiện để điều chỉnh các quan hệ xã hội nhằm thiết lập trật tự xã hội."
+  },
+  {
+    "ID": 124,
+    "CauHoi": "Montesquieu là một trong những đại biểu xuất sắc của trường phái pháp luật thực định.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Montesquieu, cùng với Aristote, Ciceron, Grotius, là những đại biểu xuất sắc của trường phái pháp luật tự nhiên."
+  },
+  {
+    "ID": 125,
+    "CauHoi": "Theo Montesquieu, luật tự nhiên thứ nhất của con người là hòa bình.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Montesquieu cho rằng hòa bình là luật tự nhiên thứ nhất, bởi vì con người do hiểu biết thấp kém nên cảm thấy yếu đuối, sợ hãi và không tìm cách đánh nhau."
+  },
+  {
+    "ID": 126,
+    "CauHoi": "Theo Montesquieu, luật dân sự là loại luật pháp nhân tạo dùng để quy định mối quan hệ giữa người cai trị và người bị cai trị.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Theo Montesquieu, luật chính trị mới là quy định mối quan hệ giữa người cai trị và người bị cai trị để duy trì trật tự. Luật dân sự dùng để quy định mối quan hệ giữa các công dân với nhau."
+  },
+  {
+    "ID": 127,
+    "CauHoi": "Kaarlo Tuori cho rằng luật truyền thống được hình thành trên cơ sở các kiểu hành vi lặp đi lặp lại của con người trong đời sống hàng ngày.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Theo Kaarlo Tuori, luật truyền thống được hình thành trên cơ sở kiểu hành vi lặp đi lặp lại của con người trong đời sống hàng ngày như tập quán, phong tục, đạo đức."
+  },
+  {
+    "ID": 128,
+    "CauHoi": "Kaarlo Tuori khẳng định rằng kỷ nguyên pháp luật hiện tại của chúng ta là kỷ nguyên của pháp luật tự nhiên.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Kaarlo Tuori khẳng định rằng kỷ nguyên pháp luật của chúng ta là kỷ nguyên của pháp luật thực định."
+  },
+  {
+    "ID": 129,
+    "CauHoi": "Khi tiếp cận pháp luật như một hiện tượng mang tính quy phạm, công đoạn làm luật được coi là 'chưa là luật' (chỉ tồn tại trên giấy) hơn là 'đã là luật'.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Khi đề cập đến pháp luật với ý nghĩa là một hiện tượng mang tính quy phạm thì công đoạn làm luật được coi như nguyên liệu thô của luật, 'chưa là luật' (mới tồn tại trên giấy) hơn là 'đã là luật' (đã đi vào cuộc sống)."
+  },
+  {
+    "ID": 130,
+    "CauHoi": "Danh từ 'pháp luật' trong ngôn ngữ của hầu hết các quốc gia trên thế giới đều hoàn toàn không liên quan đến ý niệm về công lý.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Tài liệu khẳng định danh từ 'pháp luật' trong ngôn ngữ của hầu hết các quốc gia trên thế giới đều phản chiếu ý niệm công lý."
+  },
+  {
+    "ID": 131,
+    "CauHoi": "Pháp luật là hệ thống quy tắc xử sự chung do tất cả các tổ chức chính trị - xã hội trong nước cùng đặt ra và bảo đảm thực hiện.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Pháp luật là hệ thống quy tắc xử sự chung do nhà nước đặt ra hoặc thừa nhận và bảo đảm thực hiện, chứ không phải do tất cả các tổ chức chính trị - xã hội đặt ra."
+  },
+  {
+    "ID": 132,
+    "CauHoi": "Tính quyền lực nhà nước của pháp luật thể hiện ở việc pháp luật luôn thể hiện ý chí của nhà nước và được nhà nước bảo đảm thực hiện bằng nhiều biện pháp.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Pháp luật có tính quyền lực nhà nước bởi vì nó do nhà nước đặt ra hoặc thừa nhận, luôn thể hiện ý chí của nhà nước và được nhà nước bảo đảm thực hiện bằng nhiều biện pháp, kể cả cưỡng chế."
+  },
+  {
+    "ID": 133,
+    "CauHoi": "Tính quy phạm phổ biến của pháp luật chỉ có giá trị bắt buộc đối với công chức nhà nước, không áp dụng cho người dân thường.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Tính quy phạm phổ biến thể hiện ở chỗ pháp luật có giá trị bắt buộc phải tôn trọng và thực hiện đối với mọi tổ chức và cá nhân trong xã hội."
+  },
+  {
+    "ID": 134,
+    "CauHoi": "Tính xác định về hình thức của pháp luật có nghĩa là pháp luật thường được thể hiện dưới những hình thức nhất định như tập quán pháp, tiền lệ pháp hoặc văn bản quy phạm pháp luật.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Pháp luật có tính xác định về hình thức, tức là pháp luật thường được thể hiện trong những hình thức nhất định, có thể là tập quán pháp, tiền lệ pháp hoặc văn bản quy phạm pháp luật."
+  },
+  {
+    "ID": 135,
+    "CauHoi": "Pháp luật quốc tế là hệ thống quy tắc do một siêu quốc gia quyền lực nhất thế giới áp đặt lên các quốc gia khác.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Pháp luật quốc tế là hệ thống quy tắc do các quốc gia, các tổ chức quốc tế liên quốc gia thỏa thuận xây dựng nên để điều chỉnh các quan hệ xã hội phát sinh trong đời sống quốc tế."
+  },
+  {
+    "ID": 136,
+    "CauHoi": "Trong xã hội cộng sản nguyên thủy chưa có pháp luật mà chỉ có các quy phạm xã hội dưới dạng phong tục tập quán, đạo đức, tín điều tôn giáo.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Trong xã hội cộng sản nguyên thủy chưa có pháp luật nhưng đã có các quy phạm xã hội tồn tại dưới dạng phong tục tập quán, đạo đức, các tín điều tôn giáo để hướng dẫn cách xử sự."
+  },
+  {
+    "ID": 137,
+    "CauHoi": "Sự thay thế kiểu pháp luật này bằng kiểu pháp luật khác tiến bộ hơn luôn luôn phải diễn ra một cách tuần tự, không thể nhảy cóc.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Các kiểu pháp luật có thể thay thế nhau một cách tuần tự, tuy nhiên sự thay thế kiểu pháp luật cũng có thể diễn ra không tuần tự, ví dụ như pháp luật của Việt Nam."
+  },
+  {
+    "ID": 138,
+    "CauHoi": "Cơ sở xã hội của pháp luật chủ nô bao gồm hai giai cấp chính là chủ nô và nô lệ.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Cơ sở xã hội của pháp luật chủ nô gồm 2 giai cấp chính: chủ nô (chiếm thiểu số nhưng là giai cấp thống trị) và nô lệ (chiếm đa số nhưng là giai cấp bị trị)."
+  },
+  {
+    "ID": 139,
+    "CauHoi": "Pháp luật chủ nô nghiêm cấm chủ nô giết chết nô lệ vì xem nô lệ là con người có quyền tự do cơ bản.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Pháp luật chủ nô coi nô lệ chỉ là 'công cụ', là 'tài sản biết nói' của chủ. Chủ nô có toàn quyền chiếm hữu, định đoạt, đánh đập, mua bán, tặng cho thậm chí giết chết nô lệ."
+  },
+  {
+    "ID": 140,
+    "CauHoi": "Pháp luật chủ nô có tính tản mạn, thiếu thống nhất một phần do nhiều tín điều tôn giáo được thừa nhận và nâng lên thành pháp luật.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Pháp luật chủ nô có tính tản mạn, thiếu thống nhất do nhận thức hạn chế, nhiều tư tưởng, tín điều tôn giáo được thể chế hóa, thừa nhận và nâng lên thành pháp luật trong khi tôn giáo, phong tục ở các vùng miền lại rất khác nhau."
+  },
+  {
+    "ID": 141,
+    "CauHoi": "Pháp luật phong kiến thừa nhận sự bình đẳng tuyệt đối giữa tất cả các thành viên trong xã hội, không phân biệt nguồn gốc xuất thân.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Pháp luật phong kiến xác lập và bảo vệ trật tự đẳng cấp, phân chia con người thành nhiều đẳng cấp khác nhau và công khai tuyên bố cho các đẳng cấp cao có những đặc quyền riêng phụ thuộc vào chức tước, nguồn gốc xuất thân."
+  },
+  {
+    "ID": 142,
+    "CauHoi": "Pháp luật phong kiến cho phép mọi người trong xã hội có thể giải quyết tranh chấp với nhau bằng cách dùng bạo lực như đấu gươm hoặc đấu súng.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Pháp luật phong kiến dung túng việc sử dụng bạo lực, cho phép mọi người trong xã hội có thể giải quyết tranh chấp với nhau bằng cách dùng bạo lực như đấu gươm hoặc đấu súng."
+  },
+  {
+    "ID": 143,
+    "CauHoi": "Pháp luật phong kiến không bao giờ áp dụng hình phạt đối với những người không hề phạm tội.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Pháp luật phong kiến quy định và cho phép áp dụng hình phạt đối với cả những người không hề phạm tội, ví dụ như pháp luật Trung Quốc, Việt Nam có quy định hình phạt tru di tam tộc, cửu tộc."
+  },
+  {
+    "ID": 144,
+    "CauHoi": "Cơ sở kinh tế của kiểu pháp luật tư sản là quan hệ sản xuất tư bản chủ nghĩa đặc trưng bằng chế độ sở hữu tư nhân về tư liệu sản xuất và bóc lột giá trị thặng dư.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Cơ sở kinh tế của pháp luật tư sản là quan hệ sản xuất TBCN được đặc trưng bằng chế độ sở hữu tư nhân TBCN về tư liệu sản xuất và sự bóc lột giá trị thặng dư."
+  },
+  {
+    "ID": 145,
+    "CauHoi": "Trong pháp luật tư sản, quyền sở hữu tài sản có thể bị xâm hại và tước đoạt tùy ý bởi nhà nước mà không cần bất kỳ lý do gì.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Trong pháp luật tư sản, quyền sở hữu tài sản là thiêng liêng và bất khả xâm phạm. Quyền sở hữu chỉ bị hạn chế bởi một lý do duy nhất là vì lợi ích công cộng, việc xâm hại vì lý do khác đều bị trừng phạt."
+  },
+  {
+    "ID": 146,
+    "CauHoi": "Pháp luật tư sản có tính dân chủ vì nó thừa nhận quyền tự do và bình đẳng về mặt pháp lý cho công dân.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Pháp luật tư sản có tính dân chủ, nó thừa nhận quyền bình đẳng về mặt pháp lý giữa các công dân với nhau và giữa công dân với nhà nước, đồng thời thừa nhận và bảo vệ quyền con người, quyền tự do cá nhân."
+  },
+  {
+    "ID": 147,
+    "CauHoi": "Cơ sở xã hội của pháp luật xã hội chủ nghĩa chỉ bao gồm duy nhất giai cấp công nhân.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Cơ sở xã hội của pháp luật XHCN bao gồm tất cả các giai cấp, tầng lớp trong xã hội mà nền tảng là liên minh giữa giai cấp công nhân với giai cấp nông dân và đội ngũ trí thức."
+  },
+  {
+    "ID": 148,
+    "CauHoi": "Pháp luật xã hội chủ nghĩa được bảo đảm thực hiện chủ yếu bằng các biện pháp bạo lực và đàn áp khốc liệt.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Pháp luật xã hội chủ nghĩa được bảo đảm thực hiện chủ yếu bằng các biện pháp giáo dục, thuyết phục và động viên để tạo ra tính tự giác cho các thành viên trong xã hội."
+  },
+  {
+    "ID": 149,
+    "CauHoi": "Pháp luật xã hội chủ nghĩa là sự thể chế hóa các đường lối, chủ trương, chính sách của đảng của giai cấp công nhân.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Pháp luật XHCN là sự thể chế hoá các đường lối chủ trương, chính sách của đảng của giai cấp công nhân, trong đó đường lối, chính sách của đảng luôn giữ vai trò chỉ đạo đối với pháp luật."
+  },
+  {
+    "ID": 150,
+    "CauHoi": "Phạm vi điều chỉnh của pháp luật xã hội chủ nghĩa rất nhỏ hẹp, chỉ tác động đến lĩnh vực an ninh và quốc phòng.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Pháp luật XHCN có phạm vi điều chỉnh khá rộng rãi, tác động đến hầu hết các lĩnh vực của đời sống, từ kinh tế, chính trị đến văn hoá, giáo dục, khoa học, kỹ thuật, an ninh, quốc phòng, đối ngoại."
+  },
+  {
+    "ID": 151,
+    "CauHoi": "Theo Khổng Tử, pháp luật chỉ được đặt ra cho những người không hiểu và không theo được 'lễ'.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Theo tài liệu, Khổng Tử (đại diện Trung Quốc cổ đại) cho rằng pháp luật được đồng nhất với hình pháp và chỉ được đặt ra cho những người không hiểu và không theo được 'lễ'."
+  },
+  {
+    "ID": 152,
+    "CauHoi": "Hàn Phi Tử cho rằng bản chất con người là hướng thiện nên người cầm quyền phải dùng lễ nhạc để cai trị.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Hàn Phi Tử cho rằng bản chất của con người là tham lam, ích kỷ (bản tính ác). Vì vậy, người cầm quyền không thể dựa vào lễ, nhạc mà phải sử dụng luật pháp công khai, minh bạch."
+  },
+  {
+    "ID": 153,
+    "CauHoi": "Quy phạm pháp luật được đặt ra để hướng tới điều chỉnh cho một cá nhân cụ thể hoặc một tổ chức cụ thể đã được xác định trước.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Quy phạm pháp luật được đặt ra không phải cho một chủ thể cụ thể hay một tổ chức, cá nhân cụ thể đã xác định được mà là cho tất cả các tổ chức và cá nhân tham gia vào quan hệ xã hội do nó điều chỉnh."
+  },
+  {
+    "ID": 154,
+    "CauHoi": "Theo quan niệm truyền thống và phổ biến ở Việt Nam, quy phạm pháp luật có 3 bộ phận là giả định, quy định và chế tài.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tài liệu nêu rõ quan niệm có tính chất truyền thống và phổ biến ở Việt Nam cho rằng quy phạm pháp luật có 3 bộ phận là giả định, quy định và chế tài."
+  },
+  {
+    "ID": 155,
+    "CauHoi": "Quy phạm pháp luật bảo vệ có cơ cấu bao gồm đầy đủ ba bộ phận là giả định, quy định và chế tài.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Đối với các quy phạm pháp luật bảo vệ (nhằm trừng phạt các chủ thể vi phạm pháp luật), cơ cấu của nó chỉ gồm hai bộ phận: giả định và chế tài."
+  },
+  {
+    "ID": 156,
+    "CauHoi": "Trong cơ cấu quy phạm pháp luật điều chỉnh, phần giả định trả lời cho câu hỏi: Ai? Khi nào? Trong điều kiện hoàn cảnh nào?",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Giả định là bộ phận nêu lên những điều kiện, hoàn cảnh có thể xảy ra và chủ thể nào cần xử sự trong điều kiện đó, qua đó trả lời cho câu hỏi: Ai? Khi nào? Trong điều kiện hoàn cảnh nào?."
+  },
+  {
+    "ID": 157,
+    "CauHoi": "Hệ thống pháp luật châu Âu lục địa (Civil Law) coi án lệ là nguồn luật chủ yếu và áp dụng mang tính ràng buộc chính thức.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Hệ thống pháp luật châu Âu lục địa coi nguồn luật chủ yếu là văn bản quy phạm pháp luật được hệ thống hóa cao. Án lệ được áp dụng rất hạn chế và không có tính ràng buộc chính thức."
+  },
+  {
+    "ID": 158,
+    "CauHoi": "Hệ thống pháp luật Anh - Mỹ (Common Law) không chia pháp luật thành công pháp và tư pháp.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tài liệu khẳng định hệ thống pháp luật Anh - Mỹ không chia pháp luật thành công pháp và tư pháp như hệ thống châu Âu lục địa."
+  },
+  {
+    "ID": 159,
+    "CauHoi": "Trong hệ thống pháp luật Hồi giáo, kinh Coran là nguồn luật quan trọng nhất.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Pháp luật đạo Hồi có 4 nguồn cơ bản (Kinh Coran, Sunna, Idjma, Kias), trong đó quan trọng nhất là Kinh Coran."
+  },
+  {
+    "ID": 160,
+    "CauHoi": "Hệ thống pháp luật xã hội chủ nghĩa phân chia hệ thống pháp luật thành công pháp và tư pháp giống như hệ thống Civil Law.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Hệ thống pháp luật xã hội chủ nghĩa không được phân chia thành công pháp, tư pháp mà được phân chia thành các ngành luật như hiến pháp, hành chính, kinh tế...."
+  },
+  {
+    "ID": 161,
+    "CauHoi": "Xét về mặt hình thức cấu trúc, hệ thống pháp luật bao gồm: Ngành luật, Chế định pháp luật và Quy phạm pháp luật.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Sơ đồ về hình thức cấu trúc hệ thống pháp luật thể hiện rõ: Hệ thống pháp luật bao gồm Ngành luật, trong Ngành luật bao gồm Chế định pháp luật, và trong Chế định pháp luật bao gồm Quy phạm pháp luật."
+  },
+  {
+    "ID": 162,
+    "CauHoi": "Phương pháp điều chỉnh là căn cứ quan trọng nhất và độc lập để phân định các ngành luật.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Đối tượng điều chỉnh mới là căn cứ quan trọng nhất và có thể coi là căn cứ độc lập để phân định các ngành luật. Phương pháp điều chỉnh chỉ là căn cứ bổ trợ."
+  },
+  {
+    "ID": 163,
+    "CauHoi": "Montesquieu là một trong những đại biểu xuất sắc của trường phái pháp luật tự nhiên.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tài liệu ghi nhận những đại biểu xuất sắc của trường phái pháp luật tự nhiên là Aristote, Ciceron, Grotius, Montesquieu...."
+  },
+  {
+    "ID": 164,
+    "CauHoi": "Theo trường phái pháp luật tự nhiên, luật do nhà nước ban hành không cần thiết phải phù hợp với pháp luật tự nhiên.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Theo trường phái pháp luật tự nhiên, pháp luật do nhà nước ban hành phải dựa trên cơ sở của pháp luật tự nhiên và phải phù hợp với pháp luật tự nhiên."
+  },
+  {
+    "ID": 165,
+    "CauHoi": "Quy định là bộ phận của quy phạm pháp luật nêu lên cách xử sự hay quy tắc xử sự cho chủ thể ở vào điều kiện, hoàn cảnh đã nêu trong phần giả định.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Phần quy định nêu lên cách xử sự hay quy tắc xử sự cho chủ thể ở vào điều kiện, hoàn cảnh đã nêu trong phần giả định, trả lời câu hỏi được làm gì, không được làm gì, phải làm gì."
+  },
+  {
+    "ID": 166,
+    "CauHoi": "Chế tài của quy phạm pháp luật luôn cố định một biện pháp cưỡng chế duy nhất, không cho phép lựa chọn.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Chế tài của quy phạm pháp luật có thể cố định (chỉ nêu 1 biện pháp) hoặc không cố định (nêu lên nhiều biện pháp cưỡng chế để cho phép chủ thể có thẩm quyền lựa chọn và áp dụng một trong số đó)."
+  },
+  {
+    "ID": 167,
+    "CauHoi": "Quy phạm pháp luật xung đột là loại quy phạm không trực tiếp quy định quyền và nghĩa vụ mà chỉ nêu lên văn bản pháp luật nào sẽ được lựa chọn để áp dụng.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Quy phạm pháp luật xung đột là loại quy phạm đặc biệt, không trực tiếp quy định quyền, nghĩa vụ hay biện pháp tác động, mà chỉ nêu lên văn bản quy phạm pháp luật nào hoặc pháp luật của nước nào sẽ được lựa chọn để áp dụng."
+  },
+  {
+    "ID": 168,
+    "CauHoi": "Tập quán pháp có cơ cấu 3 bộ phận rõ ràng như quy phạm pháp luật trong văn bản quy phạm pháp luật.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Tập quán pháp tồn tại dưới dạng bất thành văn nên không thể phân tích cơ cấu, không có cơ cấu tương tự như quy phạm pháp luật trong các văn bản quy phạm pháp luật."
+  },
+  {
+    "ID": 169,
+    "CauHoi": "Trong các văn bản quy phạm pháp luật, trật tự các bộ phận của quy phạm bắt buộc phải tuân theo đúng thứ tự: giả định, quy định, rồi đến biện pháp bảo đảm thực hiện.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Trật tự của các bộ phận trong quy phạm không nhất thiết phải theo đúng thứ tự mà có thể trình bày theo cách đảo lộn hoặc đan xen nhau."
+  },
+  {
+    "ID": 170,
+    "CauHoi": "Tính ổn định của pháp luật là ổn định tương đối, cần được sửa đổi khi không còn phù hợp với thực tế.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tính ổn định của pháp luật cũng chỉ là ổn định tương đối, khi một quy định không còn phù hợp với thực tế thì cần phải được sửa đổi, bổ sung, thay thế kịp thời để đảm bảo tính phù hợp và khả thi."
+  },
+  {
+    "ID": 171,
+    "CauHoi": "Tính toàn diện của hệ thống pháp luật thể hiện ở việc hệ thống pháp luật phải có đầy đủ các ngành luật, mỗi ngành phải có đủ các chế định và quy phạm cần thiết.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tính toàn diện của hệ thống pháp luật được thể hiện ở 2 yêu cầu: hệ thống pháp luật phải có đầy đủ các ngành luật, và mỗi ngành luật phải có đầy đủ các chế định và các quy phạm pháp luật cần thiết."
+  },
+  {
+    "ID": 172,
+    "CauHoi": "Ở hệ thống pháp luật Anh - Mỹ (Common Law), thẩm phán không có bất kỳ quyền hạn nào trong việc sáng tạo ra pháp luật.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Do việc sử dụng rộng rãi án lệ, trong những trường hợp nhất định các thẩm phán của tòa án tối cao vừa là người xét xử vừa là người sáng tạo ra pháp luật một cách gián tiếp."
+  },
+  {
+    "ID": 173,
+    "CauHoi": "Đặc trưng lớn nhất của hệ thống pháp luật các nước Hồi giáo là sự liên kết chặt chẽ giữa luật pháp nhà nước và luật pháp tôn giáo.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Đặc trưng lớn nhất của hệ thống pháp luật ở các nước Hồi giáo là sự liên kết giữa luật pháp nhà nước và luật pháp tôn giáo, đối với người theo đạo Hồi thì nhà thờ cũng là nhà nước và ngược lại nên luật nhà nước và tôn giáo chỉ là một."
+  },
+  {
+    "ID": 174,
+    "CauHoi": "Quy phạm pháp luật luôn luôn thể hiện ý chí của nhà nước do chỉ được nhà nước đặt ra hoặc thừa nhận và bảo đảm thực hiện.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Quy phạm pháp luật chỉ do nhà nước đặt ra hoặc thừa nhận và bảo đảm thực hiện nên nó luôn luôn thể hiện ý chí của nhà nước (của chủ thể ban hành nhân danh nhà nước)."
+  },
+  {
+    "ID": 175,
+    "CauHoi": "Quy phạm pháp luật chỉ được thực hiện một lần duy nhất trong thực tế để giải quyết một vụ việc cụ thể rồi hết hiệu lực.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Quy phạm pháp luật được thực hiện nhiều lần trong thực tế cuộc sống cho đến khi nó bị sửa đổi, bãi bỏ hoặc huỷ bỏ bởi vì nó được ban hành ra để điều chỉnh một quan hệ xã hội chung."
+  },
+  {
+    "ID": 176,
+    "CauHoi": "Theo giáo sư Kaarlo Tuori, luật con người được chia thành hai loại cơ bản là luật truyền thống và luật thực định.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Theo Kaarlo Tuori, luật con người dựa trên cơ sở hành vi của con người và bao gồm 2 loại: luật truyền thống và luật thực định."
+  },
+  {
+    "ID": 177,
+    "CauHoi": "Căn cứ vào nội dung phần quy định, quy phạm pháp luật được phân loại thành quy phạm dứt khoát, quy phạm tùy nghi và quy phạm hướng dẫn.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tài liệu ghi rõ: Căn cứ vào nội dung phần quy định của quy phạm pháp luật thì chia chúng thành quy phạm dứt khoát, quy phạm tuỳ nghi và quy phạm hướng dẫn."
+  },
+  {
+    "ID": 178,
+    "CauHoi": "Các bộ phận của một quy phạm pháp luật luôn phải được gói gọn trong cùng một điều khoản của văn bản, không được tách rời sang các điều khoản hay văn bản khác.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Tài liệu cho biết các bộ phận của 1 quy phạm pháp luật có thể được trình bày trong các điều khoản khác nhau của cùng 1 văn bản, hoặc thậm chí được trình bày trong các văn bản quy phạm pháp luật khác nhau."
+  },
+  {
+    "ID": 179,
+    "CauHoi": "Hệ thống pháp luật liên quốc gia là tổng thể quy phạm áp dụng bắt buộc cho tất cả các quốc gia trên thế giới.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Hệ thống pháp luật liên quốc gia là tổng thể các quy phạm pháp luật do một nhóm quốc gia thỏa thuận xây dựng nên và chỉ có giá trị tôn trọng và thực hiện đối với các quốc gia thuộc nhóm đó (ví dụ như pháp luật ASEAN, Liên minh châu Âu)."
+  },
+  {
+    "ID": 180,
+    "CauHoi": "Mệnh lệnh - phục tùng và bình đẳng - thỏa thuận là hai phương pháp chủ yếu mà nhà nước dùng để điều chỉnh các quan hệ xã hội bằng pháp luật.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Các phương pháp điều chỉnh của pháp luật có thể là cấm đoán, bắt buộc, cho phép... trong đó mệnh lệnh – phục tùng và bình đẳng – thỏa thuận là 2 phương pháp chủ yếu."
+  },
+  {
+    "ID": 181,
+    "CauHoi": "Quy phạm pháp luật được đặt ra cho một cá nhân cụ thể hoặc một tổ chức cụ thể đã xác định được từ trước.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Quy phạm pháp luật được đặt ra không phải cho một chủ thể cụ thể hay một tổ chức, cá nhân cụ thể đã xác định được mà là cho tất cả các tổ chức và cá nhân tham gia vào quan hệ xã hội do nó điều chỉnh."
+  },
+  {
+    "ID": 182,
+    "CauHoi": "Quy phạm pháp luật luôn luôn thể hiện ý chí của Nhà nước vì nó chỉ do Nhà nước đặt ra hoặc thừa nhận và bảo đảm thực hiện.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Quy phạm pháp luật chỉ do Nhà nước đặt ra hoặc thừa nhận và bảo đảm thực hiện nên nó luôn luôn thể hiện ý chí của Nhà nước (hoặc của chủ thể ban hành nhân danh Nhà nước)."
+  },
+  {
+    "ID": 183,
+    "CauHoi": "Nội dung của quy phạm pháp luật thường chỉ quy định một mặt là bắt buộc thực hiện nghĩa vụ pháp lý đối với các chủ thể.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Quy phạm pháp luật là công cụ để điều chỉnh quan hệ xã hội nên nội dung của nó thường thể hiện 2 mặt: cho phép và bắt buộc, tức là nó quy định cả quyền và nghĩa vụ pháp lý cho các chủ thể tham gia vào quan hệ xã hội."
+  },
+  {
+    "ID": 184,
+    "CauHoi": "Cơ cấu của các quy phạm pháp luật bảo vệ chỉ bao gồm hai bộ phận là giả định và chế tài.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Đối với các quy phạm pháp luật bảo vệ, được ban hành nhằm trừng phạt các chủ thể vi phạm pháp luật, cơ cấu của nó chỉ gồm hai bộ phận là giả định và chế tài."
+  },
+  {
+    "ID": 185,
+    "CauHoi": "Cơ cấu của quy phạm pháp luật xung đột bao gồm hai bộ phận là giả định và quy định.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Đối với các quy phạm pháp luật xung đột (loại quy phạm đặc biệt, chiếm tỉ trọng nhỏ), cơ cấu của chúng chỉ gồm 2 bộ phận là phạm vi và hệ thuộc."
+  },
+  {
+    "ID": 186,
+    "CauHoi": "Giả định là bộ phận của quy phạm pháp luật nêu lên cách xử sự hay quy tắc xử sự cho chủ thể khi ở vào điều kiện, hoàn cảnh nhất định.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Giả định là bộ phận nêu lên những điều kiện, hoàn cảnh có thể xảy ra và chủ thể nào cần xử sự trong điều kiện đó. Bộ phận nêu lên cách xử sự hay quy tắc xử sự là bộ phận quy định."
+  },
+  {
+    "ID": 187,
+    "CauHoi": "Giả định phức tạp là loại giả định nêu lên nhiều điều kiện, hoàn cảnh và chỉ khi xảy ra tất cả các điều kiện đó thì chủ thể mới chịu sự tác động của quy phạm.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Giả định phức tạp nêu lên nhiều điều kiện, hoàn cảnh có thể xảy ra trong cuộc sống và chỉ khi xảy ra tất cả các điều kiện, hoàn cảnh đó thì cá nhân, tổ chức được đề cập đến mới chịu sự tác động của quy phạm."
+  },
+  {
+    "ID": 188,
+    "CauHoi": "Bộ phận quy định của quy phạm pháp luật trả lời cho các câu hỏi: Ai? Khi nào? Trong điều kiện hoàn cảnh nào?",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Bộ phận quy định trả lời cho câu hỏi: Được làm gì? Không được làm gì? Phải làm gì và làm như thế nào?. Bộ phận giả định mới trả lời cho câu hỏi: Ai? Khi nào? Trong điều kiện hoàn cảnh nào?."
+  },
+  {
+    "ID": 189,
+    "CauHoi": "Chế tài cố định là loại chế tài nêu lên nhiều biện pháp cưỡng chế để cơ quan có thẩm quyền lựa chọn áp dụng một biện pháp.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Chế tài cố định chỉ nêu lên 1 biện pháp cưỡng chế duy nhất của Nhà nước. Chế tài không cố định mới là loại nêu lên nhiều biện pháp cưỡng chế rồi cho phép lựa chọn và áp dụng một biện pháp."
+  },
+  {
+    "ID": 190,
+    "CauHoi": "Biện pháp tác động của Nhà nước không chỉ bao gồm chế tài trừng phạt mà còn bao gồm các hình thức khen thưởng, khuyến khích.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Biện pháp tác động của Nhà nước có thể là các hình thức khen thưởng, khuyến khích động viên; các biện pháp trừng phạt hay chế tài; và cả các biện pháp pháp lý bất lợi nhưng không mang tính chất trừng phạt."
+  },
+  {
+    "ID": 191,
+    "CauHoi": "Trong một văn bản quy phạm pháp luật, trật tự các bộ phận của quy phạm luôn phải tuân theo thứ tự: giả định, quy định rồi đến biện pháp bảo đảm thực hiện.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Trật tự của các bộ phận trong quy phạm pháp luật không nhất thiết phải theo đúng thứ tự: giả định, quy định rồi biện pháp bảo đảm thực hiện, mà có thể trình bày theo cách đảo lộn hoặc đan xen nhau."
+  },
+  {
+    "ID": 192,
+    "CauHoi": "Các bộ phận mang nội dung của một quy phạm pháp luật có thể được trình bày nằm rải rác trong các điều khoản khác nhau của các văn bản quy phạm pháp luật khác nhau.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Theo cách trình bày quy phạm pháp luật, các bộ phận mang nội dung của 1 quy phạm pháp luật có thể được trình bày trong các điều khoản khác nhau của các văn bản quy phạm pháp luật khác nhau."
+  },
+  {
+    "ID": 193,
+    "CauHoi": "Quy phạm pháp luật trong tập quán pháp và án lệ cũng có cơ cấu ba bộ phận (giả định, quy định, chế tài) rõ ràng giống như trong văn bản quy phạm pháp luật.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Quy phạm pháp luật trong các loại nguồn khác không có cơ cấu tương tự như trong văn bản quy phạm pháp luật. Ví dụ, tập quán pháp tồn tại dưới dạng bất thành văn nên không thể phân tích cơ cấu, án lệ và điều ước quốc tế cũng không có cơ cấu như trên."
+  },
+  {
+    "ID": 194,
+    "CauHoi": "Căn cứ vào nội dung của quy phạm, pháp luật được phân loại thành quy phạm dứt khoát, quy phạm tùy nghi và quy phạm hướng dẫn.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Đó là cách phân loại căn cứ vào nội dung phần \"quy định\" của quy phạm pháp luật. Nếu căn cứ vào \"nội dung của quy phạm\" thì chia thành quy phạm điều chỉnh, quy phạm định nghĩa, quy phạm xung đột và quy phạm bảo vệ."
+  },
+  {
+    "ID": 195,
+    "CauHoi": "Theo nghĩa rộng, hệ thống pháp luật được dùng để chỉ tập hợp các hệ thống pháp luật của một số nước có những nét tương tự nhau do cùng dựa trên một nền tảng pháp luật, chính trị, tư tưởng hoặc văn hóa chung.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Theo nghĩa rộng, hệ thống pháp luật có thể được hiểu là một \"dòng họ pháp luật\", dùng để chỉ tập hợp hệ thống pháp luật của một số nước có nét tương tự nhau do dựa trên nền tảng chung về pháp luật, chính trị, tư tưởng, văn hóa (ví dụ: Common Law, Civil Law)."
+  },
+  {
+    "ID": 196,
+    "CauHoi": "Trong hệ thống pháp luật châu Âu lục địa (Civil Law), nguồn luật chủ yếu là án lệ do các thẩm phán tạo ra thông qua xét xử.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Trong hệ thống pháp luật châu Âu lục địa, nguồn luật chủ yếu là văn bản quy phạm pháp luật được hệ thống hóa cao. Án lệ được áp dụng rất hạn chế và không có tính ràng buộc chính thức."
+  },
+  {
+    "ID": 197,
+    "CauHoi": "Ở hệ thống pháp luật châu Âu lục địa, các thẩm phán chỉ tiến hành hoạt động xét xử mà không được tham gia hoạt động lập pháp.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Hệ thống pháp luật Châu Âu lục địa dựa trên quy trình tố tụng thẩm vấn, các thẩm phán chỉ tiến hành hoạt động xét xử mà không được tham gia hoạt động lập pháp, họ không được tạo ra các chế định hay quy phạm pháp luật."
+  },
+  {
+    "ID": 198,
+    "CauHoi": "Hệ thống pháp luật Anh - Mỹ (Common Law) có sự phân chia pháp luật thành công pháp và tư pháp rất rõ ràng giống như Civil Law.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Hệ thống pháp luật Anh - Mỹ không chia pháp luật thành công pháp và tư pháp như hệ thống châu Âu lục địa."
+  },
+  {
+    "ID": 199,
+    "CauHoi": "Trong hệ thống pháp luật Anh - Mỹ, nguyên tắc tranh tụng được áp dụng rộng rãi, thẩm phán và ban bồi thẩm đóng vai trò trọng tài lắng nghe các bên.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Ở hệ thống pháp luật Anh - Mỹ, nguyên tắc tranh tụng được áp dụng rộng rãi trong tố tụng, các bên luôn có sự tranh tụng đấu trí, còn thẩm phán và ban bồi thẩm chỉ có vai trò trọng tài, lắng nghe và đưa ra phán quyết."
+  },
+  {
+    "ID": 200,
+    "CauHoi": "Hệ thống pháp luật Hồi giáo có đặc trưng lớn nhất là sự liên kết chặt chẽ giữa luật pháp nhà nước và luật pháp tôn giáo, không có sự phân biệt.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Đặc trưng lớn nhất của hệ thống pháp luật ở các nước Hồi giáo là sự liên kết giữa luật pháp nhà nước và luật pháp tôn giáo. Đối với người theo đạo Hồi, nhà thờ cũng là nhà nước và ngược lại nên luật nhà nước và luật tôn giáo chỉ là một."
+  },
+  {
+    "ID": 201,
+    "CauHoi": "Pháp luật Hồi giáo áp dụng bắt buộc cho tất cả mọi người sinh sống trên lãnh thổ quốc gia Hồi giáo, bất kể họ theo tôn giáo nào.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Pháp luật Hồi giáo chỉ áp dụng đối với những người theo đạo Hồi. Nguyên tắc tôn giáo làm cơ sở cho pháp luật đạo Hồi sẽ không có hiệu lực nếu một trong các bên không phải là người theo đạo Hồi."
+  },
+  {
+    "ID": 202,
+    "CauHoi": "Hệ thống pháp luật xã hội chủ nghĩa phân chia hệ thống pháp luật thành công pháp và tư pháp.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Hệ thống pháp luật xã hội chủ nghĩa không được phân chia thành công pháp, tư pháp mà được phân chia thành các ngành luật như luật hiến pháp, luật hành chính, luật kinh tế...."
+  },
+  {
+    "ID": 203,
+    "CauHoi": "Xét về mặt hình thức cấu trúc, hệ thống pháp luật thực định của một quốc gia bao gồm các ngành luật, chế định pháp luật và quy phạm pháp luật.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Xét về mặt hình thức cấu trúc, hệ thống pháp luật là thể thống nhất các ngành luật; mỗi ngành luật bao gồm các chế định pháp luật; và mỗi chế định lại bao gồm nhiều quy phạm pháp luật."
+  },
+  {
+    "ID": 204,
+    "CauHoi": "Đối tượng điều chỉnh của pháp luật là cách thức mà Nhà nước dùng pháp luật để tác động lên các quan hệ xã hội.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Đối tượng điều chỉnh của pháp luật là các quan hệ xã hội. Cách thức mà Nhà nước dùng pháp luật để tác động lên các quan hệ xã hội được gọi là phương pháp điều chỉnh của pháp luật."
+  },
+  {
+    "ID": 205,
+    "CauHoi": "Đối tượng điều chỉnh là căn cứ quan trọng nhất và có thể coi là căn cứ độc lập để phân định các ngành luật.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Đối tượng điều chỉnh là căn cứ quan trọng nhất và có thể coi là một căn cứ độc lập để phân định các ngành luật vì nhiều ngành luật có đối tượng điều chỉnh hoàn toàn khác nhau."
+  },
+  {
+    "ID": 206,
+    "CauHoi": "Tính đồng bộ của hệ thống pháp luật thể hiện ở việc hệ thống pháp luật phải bao quát được tất cả các lĩnh vực của đời sống xã hội.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Khả năng bao quát tất cả các lĩnh vực của đời sống xã hội là thể hiện của tính toàn diện. Tính đồng bộ thể hiện ở chỗ các quy định của pháp luật phải thống nhất với nhau, không mâu thuẫn, trùng lặp chồng chéo."
+  },
+  {
+    "ID": 207,
+    "CauHoi": "Tính ổn định của hệ thống pháp luật mang tính tuyệt đối, không được sửa đổi, bổ sung hay thay thế dưới bất kỳ hình thức nào.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Tính ổn định của pháp luật chỉ là ổn định tương đối; bởi vì khi một quy định không còn phù hợp với thực tế cuộc sống thì cần phải được sửa đổi, bổ sung, thay thế kịp thời để đảm bảo tính phù hợp và khả thi."
+  },
+  {
+    "ID": 208,
+    "CauHoi": "Yêu cầu về kỹ thuật lập pháp là một trong những tiêu chuẩn cơ bản để đánh giá mức độ hoàn thiện của hệ thống pháp luật.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Yêu cầu về kỹ thuật lập pháp đòi hỏi hệ thống pháp luật hoàn thiện phải được xây dựng ở trình độ kỹ thuật lập pháp cao, và đây là một tiêu chuẩn cơ bản đánh giá mức độ hoàn thiện của hệ thống pháp luật."
+  },
+  {
+    "ID": 209,
+    "CauHoi": "Xét về mặt hình thức thể hiện, hệ thống pháp luật thực định của Việt Nam hiện nay chủ yếu được thể hiện dưới dạng án lệ và tập quán pháp.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Dưới góc độ hình thức thể hiện, pháp luật thực định được thể hiện trong các hình thức như tập quán pháp, án lệ, văn bản quy phạm pháp luật mà chủ yếu là trong một hệ thống các văn bản quy phạm pháp luật có giá trị pháp lý cao thấp khác nhau."
+  },
+  {
+    "ID": 210,
+    "CauHoi": "Đẩy mạnh hệ thống hóa pháp luật nhằm tạo ra nhiều bộ luật, bộ pháp điển là một trong những giải pháp để hoàn thiện hệ thống pháp luật Việt Nam.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Một trong những giải pháp để hoàn thiện hệ thống pháp luật Việt Nam hiện nay là đẩy mạnh hệ thống hóa pháp luật nhằm tạo ra nhiều bộ luật, bộ pháp điển phục vụ các hoạt động pháp luật nhanh chóng, thuận lợi và hiệu quả hơn."
+  },
+  {
+    "ID": 211,
+    "CauHoi": "Quan hệ pháp luật là những quan hệ xã hội được pháp luật điều chỉnh, trong đó các bên có quyền và nghĩa vụ pháp lý được nhà nước quy định hoặc thừa nhận và bảo đảm thực hiện.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tài liệu định nghĩa: Quan hệ pháp luật là quan hệ xã hội được pháp luật điều chỉnh trong đó các bên chủ thể tham gia quan hệ pháp luật có các quyền và nghĩa vụ pháp lý được nhà nước quy định hoặc thừa nhận và bảo đảm thực hiện."
+  },
+  {
+    "ID": 212,
+    "CauHoi": "Quan hệ pháp luật là quan hệ xã hội hoàn toàn mang tính khách quan, tự phát và không phụ thuộc vào ý chí của con người.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Đặc điểm của quan hệ pháp luật là quan hệ xã hội có ý chí. Nó được hình thành do ý chí của con người, thể hiện ý chí của Nhà nước và ý chí của các chủ thể cụ thể tham gia vào quan hệ đó."
+  },
+  {
+    "ID": 213,
+    "CauHoi": "Ý chí của các chủ thể tham gia vào quan hệ pháp luật có thể trái với ý chí của Nhà nước miễn là các bên tự nguyện thỏa thuận.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Tài liệu ghi rõ: Ý chí của các chủ thể khác (khi tham gia vào quan hệ pháp luật) phải phù hợp, không được trái với ý chí của nhà nước."
+  },
+  {
+    "ID": 214,
+    "CauHoi": "Quan hệ pháp luật tuyệt đối là loại quan hệ mà tất cả các bên chủ thể tham gia đều được xác định một cách cụ thể, rõ ràng.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Đó là định nghĩa của quan hệ pháp luật tương đối. Quan hệ pháp luật tuyệt đối là quan hệ trong đó chỉ có một bên chủ thể được xác định (chủ thể có quyền), còn phía bên kia là bất kỳ tổ chức, cá nhân nào trong xã hội."
+  },
+  {
+    "ID": 215,
+    "CauHoi": "Quan hệ sở hữu tài sản và quan hệ quyền tác giả đối với tác phẩm là các ví dụ điển hình về quan hệ pháp luật tuyệt đối.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tài liệu nêu rõ ví dụ về quan hệ pháp luật tuyệt đối là: quan hệ sở hữu tài sản, quan hệ quyền tác giả đối với tác phẩm (trong đó 1 bên được xác định là chủ sở hữu/tác giả, các bên kia có nghĩa vụ tôn trọng)."
+  },
+  {
+    "ID": 216,
+    "CauHoi": "Quan hệ tư pháp là những quan hệ pháp luật trong đó có ít nhất một bên chủ thể mang quyền lực nhà nước.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Quan hệ mà có ít nhất một bên mang quyền lực nhà nước được gọi là quan hệ công pháp. Quan hệ tư pháp là quan hệ giữa các cá nhân, tổ chức không mang quyền lực nhà nước (như quan hệ vợ chồng, mua bán)."
+  },
+  {
+    "ID": 217,
+    "CauHoi": "Ba thành phần cấu thành nên một quan hệ pháp luật hoàn chỉnh bao gồm: Chủ thể, Nội dung và Khách thể.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Theo cấu trúc tài liệu, phần 'Các thành phần của quan hệ pháp luật' liệt kê rõ 3 thành phần chính là: Chủ thể của quan hệ pháp luật, Nội dung của quan hệ pháp luật và Khách thể của quan hệ pháp luật."
+  },
+  {
+    "ID": 218,
+    "CauHoi": "Tất cả mọi tổ chức và cá nhân trong xã hội đều đương nhiên có thể tham gia vào tất cả các quan hệ pháp luật.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Tài liệu khẳng định: Không tổ chức, cá nhân nào có thể tham gia vào tất cả các quan hệ pháp luật mà chỉ có những tổ chức và cá nhân có đủ những điều kiện do pháp luật quy định mới có thể tham gia."
+  },
+  {
+    "ID": 219,
+    "CauHoi": "Năng lực chủ thể của quan hệ pháp luật bao gồm hai yếu tố cấu thành là năng lực pháp luật và năng lực hành vi pháp luật.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tài liệu nêu rõ: Năng lực chủ thể của quan hệ pháp luật bao gồm năng lực pháp luật và năng lực hành vi pháp luật."
+  },
+  {
+    "ID": 220,
+    "CauHoi": "Đối với cá nhân, năng lực pháp luật trong mọi quan hệ pháp luật đều luôn phát sinh từ khi người đó sinh ra và chấm dứt khi chết.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Mặc dù trong nhiều quan hệ pháp luật, năng lực pháp luật cá nhân phát sinh từ khi sinh ra, nhưng có những quan hệ pháp luật mà năng lực pháp luật của cá nhân chỉ phát sinh khi họ đạt đến một độ tuổi nhất định (ví dụ: hôn nhân, bầu cử)."
+  },
+  {
+    "ID": 221,
+    "CauHoi": "Năng lực hành vi pháp luật của cá nhân được hình thành dần dần theo độ tuổi và sự phát triển của trí tuệ, thể lực.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tài liệu chỉ rõ: Năng lực hành vi pháp luật của cá nhân không phát sinh từ khi họ sinh ra mà sẽ hình thành dần dần theo độ tuổi. Cá nhân được coi là có năng lực hành vi đầy đủ khi đạt đến một độ tuổi nhất định và trí tuệ phát triển bình thường."
+  },
+  {
+    "ID": 222,
+    "CauHoi": "Trong mối quan hệ giữa năng lực pháp luật và năng lực hành vi pháp luật, năng lực hành vi pháp luật giữ vai trò quyết định và là tiền đề cho năng lực pháp luật.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Ngược lại, tài liệu khẳng định năng lực pháp luật giữ vai trò quyết định, nó là tiền đề, là cơ sở để tạo ra năng lực hành vi pháp luật."
+  },
+  {
+    "ID": 223,
+    "CauHoi": "Năng lực pháp luật của người nước ngoài và người không quốc tịch hẹp hơn so với công dân của nước sở tại.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tài liệu nêu: Năng lực pháp luật của công dân nước sở tại rộng hơn nhiều so với công dân nước ngoài, người không quốc tịch. Họ chỉ được tham gia vào những quan hệ pháp luật nhất định khi được pháp luật cho phép."
+  },
+  {
+    "ID": 224,
+    "CauHoi": "Mọi tổ chức khi được thành lập trong xã hội đều đương nhiên được pháp luật công nhận là pháp nhân.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Tài liệu ghi rõ: Trong số các tổ chức, có tổ chức là pháp nhân, có tổ chức không phải là pháp nhân. Một tổ chức chỉ được công nhận là pháp nhân khi đáp ứng đủ các điều kiện luật định."
+  },
+  {
+    "ID": 225,
+    "CauHoi": "Một trong các điều kiện bắt buộc để một tổ chức được công nhận là pháp nhân ở Việt Nam là phải có tài sản độc lập và tự chịu trách nhiệm bằng tài sản đó.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Điều kiện được công nhận là pháp nhân của Việt Nam bao gồm 4 điều kiện, trong đó có: Có tài sản độc lập với cá nhân, tổ chức khác và tự chịu trách nhiệm bằng tài sản đó."
+  },
+  {
+    "ID": 226,
+    "CauHoi": "Quyền chủ thể là những cách xử sự mang tính chất bắt buộc mà chủ thể phải tiến hành theo quy định của cơ quan nhà nước.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Quyền chủ thể là cách xử sự mà chủ thể *có thể* tiến hành theo quy định của pháp luật (mang tính chất cho phép), không phải là xử sự bắt buộc. Xử sự bắt buộc là 'nghĩa vụ'."
+  },
+  {
+    "ID": 227,
+    "CauHoi": "Quyền chủ thể bao gồm khả năng yêu cầu các chủ thể khác phải chấm dứt hành vi cản trở việc thực hiện quyền của mình.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Một trong 3 khả năng của quyền chủ thể là: Yêu cầu các chủ thể khác phải chấm dứt hành vi cản trở việc thực hiện quyền của mình hoặc phải thực hiện những nghĩa vụ tương ứng."
+  },
+  {
+    "ID": 228,
+    "CauHoi": "Khả năng yêu cầu cơ quan nhà nước có thẩm quyền bảo vệ quyền và lợi ích hợp pháp của mình khi bị xâm hại là một khả năng đặc thù của quyền chủ thể.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tài liệu ghi rõ: 'Được bảo vệ, tức là được yêu cầu cơ quan nhà nước có thẩm quyền bảo vệ các quyền và lợi ích hợp pháp... Đây là khả năng đặc thù của chủ thể trong quan hệ pháp luật'."
+  },
+  {
+    "ID": 229,
+    "CauHoi": "Nghĩa vụ pháp lý của chủ thể chỉ bao gồm duy nhất yêu cầu là phải chủ động thực hiện những hành vi nhất định.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Nghĩa vụ pháp lý bao gồm 3 xử sự bắt buộc: Phải thực hiện hành vi nhất định; Phải kiềm chế không thực hiện hành vi nhất định; Phải chịu trách nhiệm pháp lý khi vi phạm."
+  },
+  {
+    "ID": 230,
+    "CauHoi": "Trong quan hệ pháp luật, quyền của chủ thể này luôn độc lập và không liên quan đến nghĩa vụ của chủ thể kia.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Tài liệu ghi rõ: Quyền và nghĩa vụ pháp lý của chủ thể có mối quan hệ mật thiết và thường tương ứng với nhau: quyền của chủ thể này là nghĩa vụ của chủ thể kia và ngược lại."
+  },
+  {
+    "ID": 231,
+    "CauHoi": "Khách thể của quan hệ pháp luật là yếu tố mang lại cho các chủ thể những lợi ích nhất định về vật chất hoặc tinh thần, khiến họ thiết lập quan hệ pháp luật với nhau.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tài liệu định nghĩa: Khách thể của quan hệ pháp luật là yếu tố khiến cho các bên chủ thể thiết lập quan hệ pháp luật với nhau, có thể mang lại cho các chủ thể những lợi ích nhất định về vật chất hoặc tinh thần."
+  },
+  {
+    "ID": 232,
+    "CauHoi": "Khách thể của một quan hệ pháp luật chỉ có thể bao gồm lợi ích trực tiếp của các bên tham gia, tuyệt đối không bao giờ liên quan đến lợi ích của bên thứ ba.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Tài liệu nêu rõ: Khách thể có thể là lợi ích của chính các bên, cũng có thể là lợi ích của bên thứ ba (nhà nước, cộng đồng, cá nhân, tổ chức khác). Ví dụ như trong quan hệ vợ chồng còn bao gồm lợi ích của các con."
+  },
+  {
+    "ID": 233,
+    "CauHoi": "Sự kiện pháp lý là những sự kiện thực tế mà khi nó xảy ra được pháp luật gắn với việc làm phát sinh, thay đổi hoặc chấm dứt quan hệ pháp luật.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Định nghĩa trong tài liệu: Sự kiện pháp lý là sự kiện thực tế mà khi nó xảy ra thì được pháp luật gắn với việc làm phát sinh, thay đổi hoặc chấm dứt quan hệ pháp luật."
+  },
+  {
+    "ID": 234,
+    "CauHoi": "Hành vi pháp lý (sự kiện ý chí) là sự kiện là kết quả của một hiện tượng tự nhiên, nằm ngoài sự kiểm soát của con người.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Đó là định nghĩa của 'Sự biến tuyệt đối'. Hành vi pháp lý là xử sự của con người có sự kiểm soát và điều khiển của lý trí."
+  },
+  {
+    "ID": 235,
+    "CauHoi": "Hành vi trái pháp luật do nguyên nhân khách quan (bất khả kháng) là hành vi trái luật nhưng người thực hiện không có lỗi.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tài liệu nêu: Hành vi trái pháp luật do nguyên nhân khách quan là hành vi trái pháp luật nhưng không có lỗi của chủ thể và trong lĩnh vực pháp lý đây được gọi là trường hợp bất khả kháng."
+  },
+  {
+    "ID": 236,
+    "CauHoi": "Sự biến tuyệt đối là sự kiện vốn là kết quả của một hiện tượng tự nhiên nhưng làm phát sinh, thay đổi hoặc chấm dứt quan hệ pháp luật.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tài liệu định nghĩa: Sự biến tuyệt đối là sự kiện vốn là kết quả của một hiện tượng tự nhiên nhưng làm phát sinh, thay đổi hoặc chấm dứt quan hệ pháp luật."
+  },
+  {
+    "ID": 237,
+    "CauHoi": "Sự kiện gửi xe hoặc lấy xe ở bãi giữ xe là một ví dụ về sự kiện pháp lý phức hợp.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Tài liệu đưa ví dụ: sự kiện gửi xe hoặc lấy xe ở bãi giữ xe là sự kiện pháp lý đơn nhất (vì chỉ bao gồm 1 sự kiện thực tế). Nghỉ hưu mới là sự kiện pháp lý phức hợp."
+  },
+  {
+    "ID": 238,
+    "CauHoi": "Sự kiện pháp lý phức hợp đòi hỏi phải có đủ một tập hợp gồm nhiều sự kiện thực tế, nếu thiếu một trong số đó thì quan hệ pháp luật không thể phát sinh, thay đổi hoặc chấm dứt.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Sự kiện pháp lý phức hợp là sự kiện bao gồm nhiều sự kiện thực tế mà nếu thiếu đi một trong các sự kiện cấu thành thì quan hệ pháp luật không thể phát sinh, thay đổi hoặc chấm dứt."
+  },
+  {
+    "ID": 239,
+    "CauHoi": "Theo sự phân loại về hậu quả pháp lý, quyết định thuyên chuyển công tác là một sự kiện làm phát sinh quan hệ pháp luật mới.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Theo ví dụ trong tài liệu: Quyết định tiếp nhận làm phát sinh quan hệ PL; Quyết định đề bạt làm thay đổi quan hệ PL; Quyết định thuyên chuyển công tác làm chấm dứt quan hệ PL tại cơ quan cũ."
+  },
+  {
+    "ID": 240,
+    "CauHoi": "Sự kiện pháp lý phủ định là những sự kiện mà khi nó vắng mặt (không xảy ra) thì sẽ làm phát sinh, thay đổi hoặc chấm dứt quan hệ pháp luật.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tài liệu định nghĩa: Sự kiện pháp lý phủ định là sự kiện mà khi vắng mặt nó thì làm phát sinh, thay đổi, chấm dứt quan hệ pháp luật (ví dụ: việc không có người kháng cáo trong vòng 15 ngày làm phát sinh quan hệ thi hành án)."
+  },
+  {
+    "ID": 241,
+    "CauHoi": "Vi phạm pháp luật là hành vi trái pháp luật và có lỗi, do chủ thể có năng lực trách nhiệm pháp lý thực hiện, xâm hại đến các quan hệ xã hội được pháp luật bảo vệ.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Đây là định nghĩa chính xác về vi phạm pháp luật được nêu tại phần I của tài liệu, bao gồm đủ 4 yếu tố cấu thành: hành vi trái luật, có lỗi, chủ thể có năng lực trách nhiệm pháp lý và xâm hại quan hệ xã hội được pháp luật bảo vệ."
+  },
+  {
+    "ID": 242,
+    "CauHoi": "Suy nghĩ tiêu cực về chính quyền nhưng không thực hiện hành vi cụ thể nào được coi là một dạng vi phạm pháp luật.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Pháp luật được ban hành để điều chỉnh hành vi của các chủ thể, không điều chỉnh suy nghĩ của họ. Vi phạm pháp luật phải là hành vi xác định của con người, tức là xử sự thực tế, cụ thể."
+  },
+  {
+    "ID": 243,
+    "CauHoi": "Hành vi không hành động (không thực hiện nghĩa vụ) cũng có thể bị coi là hành vi trái pháp luật.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Hành vi có thể là hành động (thực hiện hành vi bị cấm) hoặc không hành động (không thực hiện nghĩa vụ pháp lý)."
+  },
+  {
+    "ID": 244,
+    "CauHoi": "Sử dụng quyền quá giới hạn cho phép có thể cấu thành hành vi trái pháp luật.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tài liệu liệt kê việc 'sử dụng quyền quá giới hạn cho phép' là một trong những dạng thức của hành vi trái pháp luật."
+  },
+  {
+    "ID": 245,
+    "CauHoi": "Chỉ những chủ thể có năng lực trách nhiệm pháp lý mới có thể thực hiện hành vi vi phạm pháp luật.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Vi phạm pháp luật yêu cầu chủ thể thực hiện hành vi đó phải có năng lực trách nhiệm pháp lý; nếu chủ thể không có năng lực này thì hành vi đó không cấu thành vi phạm pháp luật."
+  },
+  {
+    "ID": 246,
+    "CauHoi": "Lỗi là yếu tố bắt buộc để xác định một hành vi là vi phạm pháp luật.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tài liệu liệt kê 'Có lỗi' là một trong các dấu hiệu cấu thành của vi phạm pháp luật."
+  },
+  {
+    "ID": 247,
+    "CauHoi": "Hành vi trái pháp luật do nguyên nhân khách quan (bất khả kháng) được coi là vi phạm pháp luật vì nó vẫn xâm hại đến quan hệ xã hội được bảo vệ.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Hành vi trái pháp luật do nguyên nhân khách quan là hành vi không có lỗi của chủ thể, được gọi là trường hợp bất khả kháng, nên không cấu thành vi phạm pháp luật."
+  },
+  {
+    "ID": 248,
+    "CauHoi": "Trách nhiệm pháp lý là hậu quả bất lợi mà nhà nước áp dụng đối với chủ thể vi phạm pháp luật.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Trách nhiệm pháp lý thể hiện ở việc chủ thể vi phạm phải gánh chịu những hậu quả bất lợi nhất định do nhà nước quy định."
+  },
+  {
+    "ID": 249,
+    "CauHoi": "Truy cứu trách nhiệm pháp lý là hoạt động của cơ quan nhà nước có thẩm quyền nhằm xác định hành vi vi phạm và áp dụng hình thức xử lý.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Truy cứu trách nhiệm pháp lý là hoạt động của cơ quan có thẩm quyền để xác định hành vi và mức độ xử lý tương ứng theo quy định pháp luật."
+  },
+  {
+    "ID": 250,
+    "CauHoi": "Trong trường hợp bồi thường thiệt hại ngoài hợp đồng, chủ thể bị truy cứu trách nhiệm pháp lý chỉ có thể là người trực tiếp gây ra thiệt hại.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Chủ thể bị truy cứu trách nhiệm pháp lý trong trường hợp bồi thường thiệt hại có thể là chủ thể không trực tiếp gây thiệt hại nhưng có liên quan tới tác nhân gây hại."
+  },
+  {
+    "ID": 251,
+    "CauHoi": "Việc truy cứu trách nhiệm pháp lý không cần tuân thủ theo trình tự, thủ tục do pháp luật quy định để đảm bảo tính linh hoạt.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Việc truy cứu trách nhiệm pháp lý phải được tiến hành theo những trình tự, thủ tục chặt chẽ do pháp luật quy định để đảm bảo tính khách quan và đúng pháp luật."
+  },
+  {
+    "ID": 252,
+    "CauHoi": "Mục đích của việc truy cứu trách nhiệm pháp lý trong bồi thường thiệt hại là nhằm khôi phục lại những thiệt hại đã xảy ra trong thực tế.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Mục đích của việc truy cứu này là khôi phục thiệt hại thực tế nhằm bảo vệ lợi ích hợp pháp của chủ thể bị thiệt hại."
+  },
+  {
+    "ID": 253,
+    "CauHoi": "Căn cứ để truy cứu trách nhiệm pháp lý chỉ bao gồm căn cứ thực tế (có thiệt hại xảy ra).",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Căn cứ truy cứu trách nhiệm pháp lý phải bao gồm cả căn cứ pháp lý (các quy định của pháp luật về trách nhiệm, trình tự thủ tục) và căn cứ thực tế."
+  },
+  {
+    "ID": 254,
+    "CauHoi": "Vi phạm pháp luật luôn gây ra thiệt hại về mặt vật chất cho chủ thể khác.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Vi phạm pháp luật xâm hại đến các quan hệ xã hội được pháp luật bảo vệ, thiệt hại có thể là vật chất, tinh thần hoặc các lợi ích khác, không nhất thiết phải luôn là thiệt hại vật chất."
+  },
+  {
+    "ID": 255,
+    "CauHoi": "Chủ thể gây thiệt hại phải chịu trách nhiệm pháp lý tương xứng với mức độ thiệt hại thực tế xảy ra.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Chủ thể bị truy cứu phải gánh chịu thiệt hại về tài sản hoặc các hậu quả khác tương xứng với mức độ thiệt hại đã xảy ra trong thực tế."
+  },
+  {
+    "ID": 256,
+    "CauHoi": "Cá nhân dưới 14 tuổi luôn phải chịu trách nhiệm pháp lý đầy đủ như người trưởng thành khi gây ra vi phạm pháp luật.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Vi phạm pháp luật yêu cầu chủ thể phải có năng lực trách nhiệm pháp lý, người chưa đủ tuổi thường được giới hạn hoặc miễn trừ trách nhiệm tùy theo quy định của pháp luật đối với từng loại hành vi."
+  },
+  {
+    "ID": 257,
+    "CauHoi": "Hành vi trái pháp luật do chủ thể không có năng lực trách nhiệm pháp lý thực hiện vẫn có thể bị coi là vi phạm pháp luật.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Một trong các dấu hiệu của vi phạm pháp luật là phải do chủ thể 'có năng lực trách nhiệm pháp lý' thực hiện; nếu chủ thể không có năng lực này thì không gọi là vi phạm pháp luật."
+  },
+  {
+    "ID": 258,
+    "CauHoi": "Việc truy cứu trách nhiệm pháp lý chỉ có thể được tiến hành bởi cơ quan nhà nước, tổ chức hoặc cá nhân có thẩm quyền.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Đặc điểm của hoạt động truy cứu trách nhiệm pháp lý là phải được thực hiện bởi các chủ thể có thẩm quyền theo quy định của pháp luật."
+  },
+  {
+    "ID": 259,
+    "CauHoi": "Trách nhiệm pháp lý luôn mang tính chất trừng phạt người vi phạm bằng mọi giá.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Trách nhiệm pháp lý có thể bao gồm trừng phạt, nhưng cũng có thể nhằm mục đích khôi phục thiệt hại hoặc các biện pháp giáo dục, không phải lúc nào cũng là trừng phạt."
+  },
+  {
+    "ID": 260,
+    "CauHoi": "Bất kỳ hành vi nào không trái pháp luật đều được coi là hành vi hợp pháp.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Vi phạm pháp luật là hành vi 'trái pháp luật', do đó các hành vi không trái pháp luật thường là các hành vi hợp pháp, phù hợp với quy định."
+  },
+  {
+    "ID": 261,
+    "CauHoi": "Việc chủ thể thực hiện hành vi gây thiệt hại ngoài ý muốn là dấu hiệu khẳng định có lỗi.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Lỗi là trạng thái tâm lý của chủ thể đối với hành vi và hậu quả của nó; nếu gây thiệt hại hoàn toàn ngoài ý muốn (không có lỗi) thì không cấu thành vi phạm pháp luật."
+  },
+  {
+    "ID": 262,
+    "CauHoi": "Pháp luật bảo vệ các quan hệ xã hội thông qua việc quy định trách nhiệm pháp lý đối với hành vi xâm hại.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Các quan hệ xã hội được pháp luật bảo vệ bằng cách ngăn chặn và xử lý các hành vi xâm hại thông qua các chế định về trách nhiệm pháp lý."
+  },
+  {
+    "ID": 263,
+    "CauHoi": "Mức độ truy cứu trách nhiệm pháp lý luôn cố định cho mọi trường hợp vi phạm, không phụ thuộc vào tính chất hành vi.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Việc truy cứu trách nhiệm pháp lý phải xác định cụ thể, tương xứng với mức độ thiệt hại và tính chất của vi phạm đã xảy ra trong thực tế."
+  },
+  {
+    "ID": 264,
+    "CauHoi": "Chủ thể vi phạm pháp luật chỉ là các cá nhân con người, không bao gồm các tổ chức.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Theo định nghĩa, chủ thể vi phạm pháp luật bao gồm cả 'cá nhân, tổ chức' có năng lực trách nhiệm pháp lý."
+  },
+  {
+    "ID": 265,
+    "CauHoi": "Trách nhiệm pháp lý có thể phát sinh ngay cả khi chưa xác định được hành vi vi phạm thông qua các thủ tục hợp pháp.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Việc truy cứu trách nhiệm pháp lý phải được tiến hành theo những trình tự, thủ tục chặt chẽ do pháp luật quy định, không thể tùy tiện."
+  },
+  {
+    "ID": 266,
+    "CauHoi": "Hành vi sử dụng quyền quá giới hạn cho phép xâm hại đến lợi ích của người khác là vi phạm pháp luật.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tài liệu liệt kê 'sử dụng quyền quá giới hạn cho phép' là một hình thức biểu hiện của hành vi trái pháp luật."
+  },
+  {
+    "ID": 267,
+    "CauHoi": "Việc không thực hiện nghĩa vụ mà pháp luật quy định là một hành vi hợp pháp.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Hành vi không thực hiện nghĩa vụ (không hành động) trái với quy định pháp luật được coi là một hành vi trái pháp luật."
+  },
+  {
+    "ID": 268,
+    "CauHoi": "Truy cứu trách nhiệm pháp lý nhằm mục đích duy nhất là trừng phạt người vi phạm.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Ngoài mục đích trừng phạt, việc truy cứu trách nhiệm pháp lý còn nhằm mục đích khôi phục thiệt hại thực tế đã xảy ra và bảo vệ lợi ích hợp pháp của chủ thể bị thiệt hại."
+  },
+  {
+    "ID": 269,
+    "CauHoi": "Tài sản của chủ thể bị truy cứu trách nhiệm pháp lý bồi thường thiệt hại có thể bị sử dụng để khôi phục lợi ích cho bên bị thiệt hại.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Chủ thể bị truy cứu phải gánh chịu thiệt hại về tài sản tương xứng với mức thiệt hại đã xảy ra trong thực tế để bồi thường cho bên bị thiệt hại."
+  },
+  {
+    "ID": 270,
+    "CauHoi": "Hành vi có lỗi là yếu tố cần thiết để một cá nhân phải chịu trách nhiệm pháp lý.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Vi phạm pháp luật là hành vi trái luật và *có lỗi*, do đó lỗi là một yếu tố không thể thiếu để xác định trách nhiệm pháp lý đối với vi phạm đó."
+  },
+  {
+    "ID": 271,
+    "CauHoi": "Ý thức pháp luật là tổng thể những học thuyết, tư tưởng, quan điểm, quan niệm, tâm trạng, thái độ, tình cảm của con người đối với pháp luật và các hiện tượng pháp lý khác.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Ý thức pháp luật thể hiện mối quan hệ của con người đối với pháp luật và sự đánh giá về tính hợp pháp hay không hợp pháp trong hành vi của các chủ thể."
+  },
+  {
+    "ID": 272,
+    "CauHoi": "Ý thức pháp luật chỉ chịu sự tác động duy nhất của nền tảng kinh tế mà không chịu ảnh hưởng từ các yếu tố xã hội khác.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Ý thức pháp luật luôn chịu sự tác động của nhiều yếu tố khác nhau như nền tảng kinh tế, kết cấu xã hội, tương quan so sánh lực lượng, quan điểm, tư tưởng của lực lượng cầm quyền, xu thế thời đại."
+  },
+  {
+    "ID": 273,
+    "CauHoi": "Ý thức pháp luật là một hình thái ý thức xã hội nên thường lạc hậu hơn so với tồn tại xã hội.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Ý thức pháp luật chịu sự quyết định của tồn tại xã hội và có tính độc lập tương đối, thể hiện ở việc nó thường lạc hậu hơn (mang tàn dư tư tưởng cũ) so với tồn tại xã hội."
+  },
+  {
+    "ID": 274,
+    "CauHoi": "Ý thức pháp luật luôn đi sau và không thể đi trước sự phát triển của tồn tại xã hội.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Bên cạnh việc thường lạc hậu hơn, ý thức pháp luật cũng có tính tiên phong và có thể đi trước sự phát triển của tồn tại xã hội."
+  },
+  {
+    "ID": 275,
+    "CauHoi": "Ý thức chính trị có vai trò định hướng cho ý thức pháp luật trong việc xây dựng và tổ chức thực thi pháp luật.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Ý thức chính trị và ý thức pháp luật đều coi trọng công cụ pháp luật, trong đó ý thức chính trị đóng vai trò định hướng cho ý thức pháp luật."
+  },
+  {
+    "ID": 276,
+    "CauHoi": "Trong lịch sử, ý thức pháp luật xuất hiện sớm hơn ý thức đạo đức.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Ý thức pháp luật xuất hiện muộn hơn ý thức đạo đức nhưng có mối quan hệ chặt chẽ với ý thức đạo đức để hình thành các công cụ quản lý xã hội."
+  },
+  {
+    "ID": 277,
+    "CauHoi": "Cấu trúc của ý thức pháp luật bao gồm hai bộ phận là tư tưởng pháp luật và tâm lý pháp luật.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Ý thức pháp luật gồm 2 bộ phận cấu thành nên nó, đó là tư tưởng pháp luật và tâm lý pháp luật."
+  },
+  {
+    "ID": 278,
+    "CauHoi": "Tư tưởng pháp luật là bộ phận cảm tính, được hình thành một cách tự phát trong đời sống hàng ngày.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Tư tưởng pháp luật là bộ phận ở cấp độ lí luận có tính khái quát, tính hệ thống cao và được hình thành một cách tự giác."
+  },
+  {
+    "ID": 279,
+    "CauHoi": "Về mặt nội dung, tư tưởng pháp luật có thể mang tính khoa học hoặc phản khoa học.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Tư tưởng pháp luật có thể chứa những nhân tố phản ánh đúng đắn sự phát triển khách quan (khoa học) hoặc phản ánh sai lầm, xuyên tạc (phản khoa học)."
+  },
+  {
+    "ID": 280,
+    "CauHoi": "Tri thức pháp lý chỉ được hình thành duy nhất thông qua quá trình đào tạo chuyên ngành luật.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Tri thức pháp lý không chỉ hình thành qua đào tạo chuyên ngành mà còn thông qua hoạt động nghiên cứu khoa học và qua hoạt động thực tiễn."
+  },
+  {
+    "ID": 281,
+    "CauHoi": "Tâm lý pháp luật là tổng thể những tình cảm, tâm trạng, thói quen, xúc cảm đối với pháp luật được hình thành ở từng người hoặc từng nhóm người.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Nói tóm lại, tâm lý pháp lý chính là tất cả các trạng thái tâm lý của con người đối với pháp luật và các hiện tượng pháp lý."
+  },
+  {
+    "ID": 282,
+    "CauHoi": "Thái độ pháp lý của con người luôn biểu đạt ở trạng thái tích cực.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Thái độ pháp lý thể hiện sự phản ứng của chủ thể và có thể biểu đạt ở trạng thái tích cực hoặc tiêu cực."
+  },
+  {
+    "ID": 283,
+    "CauHoi": "Sự hiểu biết pháp luật sâu sắc kết hợp với động cơ lành mạnh là điều kiện cần có của thái độ pháp lý tích cực.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Điều kiện cần có của thái độ pháp lý tích cực chính là sự hiểu biết pháp luật sâu sắc cộng với một động cơ lành mạnh, tích cực."
+  },
+  {
+    "ID": 284,
+    "CauHoi": "Tâm lý pháp luật và tư tưởng pháp luật hoạt động hoàn toàn độc lập và không có mối quan hệ với nhau.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Tâm lý pháp luật và tư tưởng pháp luật là 2 phương thức khác nhau nhưng có quan hệ mật thiết; tâm lý PL góp phần củng cố tư tưởng PL, và tư tưởng PL làm cho tâm lý PL thêm sâu sắc."
+  },
+  {
+    "ID": 285,
+    "CauHoi": "Khi đánh giá về ý thức pháp luật của một chủ thể, chỉ cần xem xét qua hành vi thực tế của họ là đủ.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Khi xem xét, đánh giá về ý thức pháp luật của một chủ thể cụ thể, cần phải căn cứ vào cả 3 yếu tố: tư tưởng, tâm lý và hành vi."
+  },
+  {
+    "ID": 286,
+    "CauHoi": "Ý thức pháp luật là tiền đề tư tưởng trực tiếp để xây dựng, phát triển và hoàn thiện hệ thống pháp luật.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Trong quá trình hoạt động, trên cơ sở ý thức và nhận thức của mình, các chủ thể xây dựng pháp luật xác định được quan hệ xã hội nào cần điều chỉnh để xây dựng và hoàn thiện hệ thống pháp luật."
+  },
+  {
+    "ID": 287,
+    "CauHoi": "Quyết định áp dụng pháp luật luôn luôn chỉ mang lại lợi ích cho các đối tượng áp dụng mà không gây ra hậu quả nặng nề nào.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Các quyết định áp dụng pháp luật có thể mang lại lợi ích to lớn (đề bạt, tăng lương), nhưng cũng có thể bắt người ta phải gánh chịu những hậu quả rất nặng nề như bị phạt tiền, kỷ luật hay phạt tù."
+  },
+  {
+    "ID": 288,
+    "CauHoi": "Lối sống theo pháp luật chỉ có thể được hình thành vững chắc trên nền tảng ý thức pháp luật của mỗi người.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Lối sống theo pháp luật được hình thành trên nền tảng nhận thức cao về các yêu cầu pháp luật, trong đó việc hình thành lối sống này trước hết và quan trọng nhất là dựa vào ý thức pháp luật."
+  },
+  {
+    "ID": 289,
+    "CauHoi": "Ý thức pháp luật là tiền đề cho việc ghi nhận và hiện thực hóa nội dung quyền con người trên thực tế.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Ý thức pháp luật là tiền đề cho việc ghi nhận, thực hiện nguyên tắc dân chủ và hiện thực hóa nội dung quyền con người trên thực tế."
+  },
+  {
+    "ID": 290,
+    "CauHoi": "Pháp luật không có tác động ngược trở lại đối với việc nâng cao ý thức pháp luật.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Pháp luật có sự tác động mạnh mẽ đối với ý thức pháp luật, nó là cơ sở để củng cố, phát triển và nâng cao ý thức pháp luật."
+  },
+  {
+    "ID": 291,
+    "CauHoi": "Văn hóa pháp luật chỉ bao gồm các giá trị tinh thần mà con người sáng tạo ra trong quá trình tồn tại và phát triển.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Văn hóa pháp luật là một hệ thống hữu cơ các giá trị vật chất và tinh thần do con người sáng tạo và tích lũy dựa trên tri thức và thực tiễn pháp lý."
+  },
+  {
+    "ID": 292,
+    "CauHoi": "Văn hóa pháp luật mang tính kế thừa, phủ định và đan xen trong quá trình tồn tại, phát triển.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Đặc điểm cơ bản của văn hóa pháp luật là có tính kế thừa, lưu truyền qua nhiều thế hệ, có sự phủ định và đan xen trong quá trình tồn tại, phát triển."
+  },
+  {
+    "ID": 293,
+    "CauHoi": "Văn hóa pháp lý mang tính phổ biến và tương đồng nên hoàn toàn không có tính giai cấp.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Mặc dù có tính phổ biến và tương đồng, nhưng do là một phần đời sống pháp lý của xã hội có giai cấp nên văn hoá pháp lý không thể không mang tính giai cấp."
+  },
+  {
+    "ID": 294,
+    "CauHoi": "Mặt khách quan của văn hóa pháp luật là những yếu tố có thể cảm quan được bằng trực giác như hệ thống pháp luật, hành vi hợp pháp.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Cấu thành văn hóa pháp luật có phương diện khách quan bao gồm hệ thống pháp luật, hành vi hợp pháp, kết quả thực tiễn và các yếu tố vật chất có thể cảm nhận bằng trực giác."
+  },
+  {
+    "ID": 295,
+    "CauHoi": "Mặt chủ quan của văn hóa pháp luật là hệ thống pháp luật, trật tự pháp luật và môi trường pháp chế.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Hệ thống pháp luật, trật tự pháp luật là mặt khách quan. Mặt chủ quan là những yếu tố thuộc về ý thức, tâm lý, nhận thức, cảm xúc, thái độ nằm trong chiều sâu tâm lý chủ thể."
+  },
+  {
+    "ID": 296,
+    "CauHoi": "Ý thức pháp luật là nền tảng thiết yếu để truyền tải, phản ánh và hiện thực hóa các loại hình của văn hóa pháp lý.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Trong mối quan hệ tương tác, ý thức pháp luật chính là nền tảng thiết yếu đối với quá trình truyền tải, phản ánh, hiện thực hoá các loại hình, nội dung, giá trị của văn hoá pháp lí."
+  },
+  {
+    "ID": 297,
+    "CauHoi": "Văn hoá pháp lý không có tính độc lập tương đối nào so với ý thức pháp luật.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Mặc dù có mối quan hệ hữu cơ, văn hoá pháp lí có tính độc lập tương đối với ý thức pháp luật và cũng là môi trường tác động trở lại cấu trúc, nội dung của ý thức pháp luật."
+  },
+  {
+    "ID": 298,
+    "CauHoi": "Giáo dục pháp luật là quá trình tác động nhằm trang bị kiến thức pháp lý, giúp con người có ý thức tôn trọng và tự giác xử sự theo pháp luật.",
+    "DapAnDung": "Đúng",
+    "GiaiThich": "Giáo dục pháp luật là quá trình tác động có hệ thống, có mục đích nhằm trang bị tri thức pháp lý, từ đó cá nhân có ý thức đúng đắn, tôn trọng và tự giác xử sự theo yêu cầu pháp luật."
+  },
+  {
+    "ID": 299,
+    "CauHoi": "Đối tượng của giáo dục pháp luật chỉ giới hạn ở một số tầng lớp đặc thù có vai trò quản lý trong xã hội.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Đối tượng của giáo dục pháp luật là mọi thành viên trong xã hội không trừ một ai, tuy nhiên hình thức và nội dung phải phù hợp với từng loại đối tượng."
+  },
+  {
+    "ID": 300,
+    "CauHoi": "Nội dung giáo dục pháp luật hoàn toàn cố định, đồng nhất và không có sự thay đổi giữa các nhóm đối tượng khác nhau.",
+    "DapAnDung": "Sai",
+    "GiaiThich": "Nội dung giáo dục pháp luật cụ thể không giống nhau mà có sự thay đổi tùy thuộc vào từng loại đối tượng được giáo dục."
+  }
+]

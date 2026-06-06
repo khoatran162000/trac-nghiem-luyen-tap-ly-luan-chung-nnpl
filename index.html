@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Luyện thi trắc nghiệm · Lý luận chung Nhà nước Pháp Luật</title>
+  <meta name="description" content="Luyện tập trắc nghiệm Đúng/Sai môn Lý luận chung Nhà nước Pháp Luật theo từng bộ 20 câu ngẫu nhiên, có giải thích." />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body data-theme="light">
+
+  <!-- ============ HEADER ============ -->
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand__mark" aria-hidden="true">§</span>
+      <div class="brand__text">
+        <h1>Lý luận chung Nhà nước Pháp Luật</h1>
+        <p>Luyện tập trắc nghiệm theo bộ 20 câu</p>
+      </div>
+    </div>
+
+    <div class="topbar__actions">
+      <div class="streak" id="streakBadge" title="Chuỗi trả lời đúng liên tiếp">
+        <span class="streak__icon">🔥</span>
+        <span id="streakValue">0</span>
+      </div>
+      <button class="icon-btn" id="themeToggle" title="Đổi giao diện sáng/tối" aria-label="Đổi giao diện">
+        <span class="icon-btn__sun">☀︎</span>
+        <span class="icon-btn__moon">☾</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- ============ LOADING / ERROR ============ -->
+  <div id="loader" class="loader">
+    <div class="loader__ring"></div>
+    <p>Đang tải bộ câu hỏi…</p>
+  </div>
+
+  <div id="errorBox" class="error-box" hidden>
+    <h2>Không tải được dữ liệu câu hỏi</h2>
+    <p>
+      Trình duyệt chặn việc đọc tệp <code>quiz.json</code> khi bạn mở thẳng
+      <code>index.html</code> từ máy tính (giao thức <code>file://</code>).
+    </p>
+    <p>Hãy thử một trong hai cách:</p>
+    <ul>
+      <li>Đẩy thư mục này lên <b>GitHub Pages</b> — khi đó trang sẽ chạy bình thường.</li>
+      <li>Hoặc chạy server cục bộ: <code>python -m http.server</code> rồi mở
+        <code>http://localhost:8000</code>.</li>
+    </ul>
+  </div>
+
+  <!-- ============ APP ============ -->
+  <main id="app" class="app" hidden>
+
+    <!-- Thanh tiến độ của bộ hiện tại -->
+    <section class="dashboard">
+      <div class="progress">
+        <div class="progress__bar"><span id="progressFill"></span></div>
+        <div class="progress__label">
+          <span id="progressText">0 / 20 câu trong bộ này</span>
+          <span id="accuracyText" class="progress__acc">Đúng trong bộ: —</span>
+        </div>
+      </div>
+
+      <div class="stats">
+        <div class="stat stat--ok"><b id="statCorrect">0</b><span>Đúng</span></div>
+        <div class="stat stat--bad"><b id="statWrong">0</b><span>Sai</span></div>
+        <div class="stat"><b id="statLeft">20</b><span>Còn lại</span></div>
+      </div>
+    </section>
+
+    <div class="layout">
+      <!-- ===== Cột chính: câu hỏi HOẶC bảng kết quả ===== -->
+      <div class="main-col">
+
+        <!-- ----- Câu hỏi ----- -->
+        <section class="card" id="card">
+          <div class="card__head">
+            <span class="qbadge" id="qbadge">Câu <b id="qPos">1</b><i>/ <span id="qTotal">20</span></i></span>
+            <span class="qid">Mã #<span id="qId">1</span></span>
+            <button class="flag-btn" id="flagBtn" title="Đánh dấu để ôn lại (phím F)">
+              <span class="flag-btn__off">☆ Đánh dấu</span>
+              <span class="flag-btn__on">★ Đã đánh dấu</span>
+            </button>
+          </div>
+
+          <p class="question" id="questionText">…</p>
+
+          <div class="answers" id="answers">
+            <button class="ans ans--true"  data-value="Đúng">Đúng</button>
+            <button class="ans ans--false" data-value="Sai">Sai</button>
+          </div>
+
+          <div class="result" id="result" hidden>
+            <div class="result__banner" id="resultBanner"></div>
+            <div class="explain">
+              <h3>Giải thích</h3>
+              <p id="explainText"></p>
+            </div>
+          </div>
+
+          <div class="nav">
+            <button class="nav__btn" id="prevBtn">‹ Câu trước</button>
+            <span class="nav__hint">Phím tắt: <kbd>D</kbd> Đúng · <kbd>S</kbd> Sai · <kbd>←</kbd> <kbd>→</kbd> chuyển câu</span>
+            <button class="nav__btn nav__btn--primary" id="nextBtn">Câu tiếp ›</button>
+          </div>
+        </section>
+
+        <!-- ----- Bảng kết quả cuối bộ ----- -->
+        <section class="summary" id="summary" hidden>
+          <div class="summary__top">
+            <div class="score-ring" id="scoreRing">
+              <div class="score-ring__inner">
+                <b id="scorePct">0%</b>
+                <span id="scoreFrac">0/20</span>
+              </div>
+            </div>
+            <div class="summary__msg">
+              <h2 id="summaryTitle">Hoàn thành!</h2>
+              <p id="summaryText">Bạn đã làm xong bộ câu hỏi.</p>
+            </div>
+          </div>
+
+          <div class="summary__grid" id="summaryGrid" aria-label="Kết quả từng câu"></div>
+
+          <div class="summary__actions">
+            <button class="nav__btn" id="reviewBtn">Xem lại bài làm</button>
+            <button class="nav__btn nav__btn--primary" id="newSetBtn2">Bộ 20 câu mới ›</button>
+          </div>
+        </section>
+      </div>
+
+      <!-- ===== Bảng điều khiển ===== -->
+      <aside class="panel">
+        <div class="panel__session">
+          <span class="panel__label">Bộ hiện tại</span>
+          <strong id="sessionKind">Ngẫu nhiên · 20 câu</strong>
+        </div>
+
+        <div class="palette" id="palette" aria-label="Danh sách câu trong bộ"></div>
+
+        <div class="legend">
+          <span><i class="dot dot--ok"></i> Đúng</span>
+          <span><i class="dot dot--bad"></i> Sai</span>
+          <span><i class="dot dot--cur"></i> Hiện tại</span>
+          <span><i class="dot dot--flag"></i> Đánh dấu</span>
+        </div>
+
+        <div class="setsize">
+          <span class="panel__label">Số câu mỗi bộ</span>
+          <div class="seg" id="sizeSeg" role="group" aria-label="Số câu mỗi bộ">
+            <button class="seg__btn" data-size="10">10</button>
+            <button class="seg__btn is-active" data-size="20">20</button>
+            <button class="seg__btn" data-size="30">30</button>
+            <button class="seg__btn" data-size="50">50</button>
+          </div>
+        </div>
+
+        <div class="toolbar">
+          <button class="tool-btn tool-btn--primary" id="newSetBtn">⤮ Bộ câu mới</button>
+          <button class="tool-btn" id="flaggedBtn">★ Ôn câu đánh dấu</button>
+          <button class="tool-btn" id="finishBtn">✓ Kết thúc bộ</button>
+        </div>
+
+        <div class="lifetime">
+          <span class="panel__label">Thống kê tổng</span>
+          <div class="lifetime__row">
+            <div><b id="lifeSets">0</b><span>Bộ đã làm</span></div>
+            <div><b id="lifeAvg">—</b><span>Chính xác TB</span></div>
+            <div><b id="lifeBest">—</b><span>Cao nhất</span></div>
+          </div>
+          <button class="tool-btn tool-btn--danger" id="resetBtn">⟲ Xoá toàn bộ tiến độ</button>
+        </div>
+      </aside>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <p>Tiến độ lưu tự động trên trình duyệt · Ngân hàng <span id="footTotal">200</span> câu hỏi</p>
+  </footer>
+
+  <button class="palette-toggle" id="paletteToggle" aria-label="Mở bảng điều khiển">☰ Bảng câu · điều khiển</button>
+
+  <script src="app.js"></script>
+</body>
+</html>
